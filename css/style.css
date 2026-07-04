@@ -1,5 +1,9 @@
 .navbar {
   background-color: #ff2600;
+  /* Bootstrap 5は左右パディングが0のため、BS4相当の余白を戻す */
+  --bs-navbar-padding-x: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 .navbar .navbar-brand {
   color: #ffeeeb;
