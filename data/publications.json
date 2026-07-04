@@ -712,8 +712,8 @@
       "year": 2024,
       "in_japanese": true,
       "authors": {
-        "ja": "小関裕介，大野雅貴，<u>中野萌士</u>， 鳴海拓志",
-        "en": "Yusuke Koseki, Masaki Ohno, <u>Kizashi Nakano</u>, and Takuji Narumi"
+        "ja": "小関裕介，<u>中野萌士</u>，鳴海拓志",
+        "en": "Yusuke Koseki, <u>Kizashi Nakano</u>, and Takuji Narumi"
       },
       "title": {
         "ja": "下方視野を拡大したHMDを用いたアバタの視覚情報提示が風味知覚に与える影響の基礎検討",
@@ -958,6 +958,25 @@
           "href": "https://www.youtube.com/watch?v=z53xW_BIaZE"
         }
       ]
+    },
+    {
+      "id": "d-fukuoka2018-mechanics",
+      "section": "domestic",
+      "year": 2018,
+      "in_japanese": true,
+      "authors": {
+        "ja": "宮原慎，<u>中野萌士</u>，中川朋奈，丸山勲",
+        "en": "Shin Miyahara, <u>Kizashi Nakano</u>, Tomona Nakagawa, and Isao Maruyama"
+      },
+      "title": {
+        "ja": "動画像処理を活用した力学分野の実験指導法に関する研究",
+        "en": "A Study on Experimental Teaching Methods in Mechanics Using Video Image Processing"
+      },
+      "venue": {
+        "ja": "福岡大学理学集報，2018",
+        "en": "Fukuoka University Science Reports, 2018"
+      },
+      "links": []
     },
     {
       "id": "d-si2017-aramen",
