@@ -1,0 +1,483 @@
+{
+  "_readme": "論文データの一元管理ファイル。cv_JP.html / cv_ENG.html / projects/*.html はこのファイルをJS(js/publications.js)で読み込んで表示する。新しい論文はこのファイルに1エントリ追加するだけでよい。section: journal | international | domestic | patent。表示順はこの配列の順（各セクション内で新しい順に並べる）。日本語論文は in_japanese: true を付けると英語CVで (in Japanese) が付く。",
+  "publications": [
+    {
+      "id": "j-frontiers2026-coordinate",
+      "section": "journal",
+      "year": 2026,
+      "authors": { "en": "Takashige Suzuki, <u>Kizashi Nakano</u>, Takuji Narumi, and Hideaki Kuzuoka" },
+      "title": { "en": "You got to coordinate, stably: 3D bimanual guidance with haptic and auditory cues" },
+      "venue": { "en": "Frontiers in Virtual Reality, Vol.7, 2026" },
+      "links": [ { "label": "10.3389/frvir.2026.1757963", "href": "https://doi.org/10.3389/frvir.2026.1757963" } ]
+    },
+    {
+      "id": "j-tvcg2026-bouba",
+      "section": "journal",
+      "year": 2026,
+      "authors": { "en": "Yusuke Koseki, <u>Kizashi Nakano</u>, Yusuke Arikawa, Hideaki Kuzuoka, and Takuji Narumi" },
+      "title": { "en": "Sharp Body, Sour Taste: Changing Taste Experiences through Cross-Modal Correspondence with the Bouba/Kiki Self-Avatar in VR" },
+      "venue": { "en": "IEEE Transactions on Visualization and Computer Graphics (TVCG), pp.1-16, 2026" },
+      "links": [ { "label": "10.1109/TVCG.2026.3699425", "href": "https://doi.org/10.1109/TVCG.2026.3699425" } ]
+    },
+    {
+      "id": "j-frontiers2026-twolimbs",
+      "section": "journal",
+      "year": 2026,
+      "authors": { "en": "Takashige Suzuki, <u>Kizashi Nakano</u>, Takuji Narumi, and Hideaki Kuzuoka" },
+      "title": { "en": "Two limbs are better than one: multi-limb tactons for precise hand navigation" },
+      "venue": { "en": "Frontiers in Virtual Reality, Vol.7, 2026" },
+      "links": [ { "label": "10.3389/frvir.2026.1757871", "href": "https://doi.org/10.3389/frvir.2026.1757871" } ]
+    },
+    {
+      "id": "j-tvcg2025-mirror",
+      "section": "journal",
+      "year": 2025,
+      "authors": { "en": "<u>Kizashi Nakano</u> and Takuji Narumi" },
+      "title": { "en": "Avatars, Should We Look at Them Directly or Through a Mirror?: Effects of Avatar Display Method on Sense of Embodiment and Gaze" },
+      "venue": { "en": "IEEE Transactions on Visualization and Computer Graphics (TVCG) 31 (5), pp.2912-2922, 2025" },
+      "links": [
+        { "label": "10.1109/TVCG.2025.3549545", "href": "https://doi.org/10.1109/TVCG.2025.3549545" },
+        { "label": "YouTube", "href": "https://youtu.be/9rbjt-XhC4U" },
+        { "label": "YouTube", "href": "https://youtu.be/xQej3Z1b5-s" }
+      ]
+    },
+    {
+      "id": "j-jvrsj2024-taste",
+      "section": "journal",
+      "year": 2024,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野 萌士</u>", "en": "<u>Kizashi Nakano</u>" },
+      "title": { "ja": "視覚情報と味覚", "en": "Visual Information and Taste" },
+      "venue": { "ja": "日本バーチャルリアリティ学会誌 29巻1号，pp.36-38，2024", "en": "Journal of the Virtual Reality Society of Japan, Vol.29, No.1, pp.36-38, 2024" },
+      "links": [ { "label": "10.18974/jvrsj.29.1_36", "href": "https://doi.org/10.18974/jvrsj.29.1_36" } ]
+    },
+    {
+      "id": "j-tvcg2021-fov",
+      "section": "journal",
+      "year": 2021,
+      "authors": { "en": "<u>Kizashi Nakano</u>, Naoya Isoyama, Diego Monteiro, Nobuchika Sakata, Kiyoshi Kiyokawa and Takuji Narumi" },
+      "title": { "en": "Head-Mounted Display with Increased Downward Field of View Improves Presence and Sense of Self-Location" },
+      "venue": { "en": "IEEE Transactions on Visualization and Computer Graphics (TVCG) 27 (11), pp.4204-4214, 2021" },
+      "links": [
+        { "label": "10.1109/TVCG.2021.3106513", "href": "https://doi.org/10.1109/TVCG.2021.3106513" },
+        { "label": "YouTube", "href": "https://youtu.be/T1hjYtyncRQ" }
+      ]
+    },
+    {
+      "id": "j-electronics2021",
+      "section": "journal",
+      "year": 2021,
+      "authors": { "en": "<u>Kizashi Nakano</u>, Daichi Horita, Norihiko Kawai, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi" },
+      "title": { "en": "A Study on Persistence of GAN-Based Vision-Induced Gustatory Manipulation" },
+      "venue": { "en": "Electronics 10 (10), p.1157, 2021" },
+      "links": [ { "label": "10.3390/electronics10101157", "href": "https://doi.org/10.3390/electronics10101157" } ]
+    },
+
+    {
+      "id": "i-vrhsa2026-lessismore",
+      "section": "international",
+      "year": 2026,
+      "authors": { "en": "Atsuya Matsumoto, Yong-Hao Hu, <u>Kizashi Nakano</u>, Takuji Narumi, and Hideaki Kuzuoka" },
+      "title": { "en": "Less Is More: Unmodulated Facial Expressions Support Emotional Communication in Stylized Characters" },
+      "venue": { "en": "International Workshop on Virtual Reality for Human and Spatial Augmentation (VR-HSA 2026)，2026" },
+      "award": { "en": "Best Paper Award" },
+      "links": [ { "label": "LINK", "href": "https://sites.google.com/vogue.cs.titech.ac.jp/VR-HSA" } ]
+    },
+    {
+      "id": "i-vrhsa2026-manylimbs",
+      "section": "international",
+      "year": 2026,
+      "authors": { "en": "Takashige Suzuki, <u>Kizashi Nakano</u>, Takuji Narumi, and Hideaki Kuzuoka" },
+      "title": { "en": "Many Limbs Make Right Work: Distributing Vibrotactile Tactons for Accurate Direction" },
+      "venue": { "en": "International Workshop on Virtual Reality for Human and Spatial Augmentation (VR-HSA 2026)，2026" },
+      "award": { "en": "Best Presentation Award" },
+      "links": [ { "label": "LINK", "href": "https://sites.google.com/vogue.cs.titech.ac.jp/VR-HSA" } ]
+    },
+    {
+      "id": "i-ahs2026-split",
+      "section": "international",
+      "year": 2026,
+      "authors": { "en": "Ryota Kondo and <u>Kizashi Nakano</u>" },
+      "title": { "en": "Split and Drift Illusion of Upper and Lower Body" },
+      "venue": { "en": "Augmented Humans International Conference (AHs 2026)，pp.751-753，2026" },
+      "links": [ { "label": "10.1145/3795011.3797398", "href": "https://doi.org/10.1145/3795011.3797398" } ]
+    },
+    {
+      "id": "i-vrst2025-coembodied",
+      "section": "international",
+      "year": 2025,
+      "authors": { "en": "Yusuke Koseki, <u>Kizashi Nakano</u>, Takuji Narumi, Hideaki Kuzuoka, and Tomohiro Amemiya" },
+      "title": { "en": "Co-embodied Mirroring: Investigating the Effects of Movement Blending on Partner Impressions in Virtual Environments" },
+      "venue": { "en": "ACM Symposium on Virtual Reality Software and Technology (VRST 2025)，2025" },
+      "links": [ { "label": "10.1145/3756884.3766054", "href": "https://doi.org/10.1145/3756884.3766054" } ]
+    },
+    {
+      "id": "i-sap2025-blending",
+      "section": "international",
+      "year": 2025,
+      "authors": { "en": "Yusuke Koseki, <u>Kizashi Nakano</u>, Takuji Narumi, Hideaki Kuzuoka, and Tomohiro Amemiya" },
+      "title": { "en": "Exploring the Impact of Moderate Movement Blending and Partner Impressions in Virtual Environments" },
+      "venue": { "en": "ACM Symposium on Applied Perception 2025 (ACM SAP 2025)，pp.1-2，2025" },
+      "links": [ { "label": "10.1145/3736702.3748176", "href": "https://doi.org/10.1145/3736702.3748176" } ]
+    },
+    {
+      "id": "i-icec2025-ajigiri",
+      "section": "international",
+      "year": 2025,
+      "authors": { "en": "Sotaro Yokoi, Ryo Ohara, Kohei Murayama, <u>Kizashi Nakano</u>, and Takuji Narumi" },
+      "title": { "en": "What Does an Angel’s Halo Taste Like?: Exploring the Structure of Gustatory Comedy Through Case Analysis of Ajigiri" },
+      "venue": { "en": "Entertainment Computing (ICEC 2025)，pp.375-388，2025" },
+      "links": [ { "label": "10.1007/978-3-032-02555-5_27", "href": "https://doi.org/10.1007/978-3-032-02555-5_27" } ]
+    },
+    {
+      "id": "i-sap2025-t2v",
+      "section": "international",
+      "year": 2025,
+      "authors": { "en": "Yong-Hao Hu, Atsuya Matsumoto, Kenichiro Ito, <u>Kizashi Nakano</u>, Takuji Narumi, Hideaki Kuzuoka, and Tomohiro Amemiya" },
+      "title": { "en": "Evaluating the Text-to-Video-to-Motion Pipeline for Realistic Avatar Animation: A Comparative User Study" },
+      "venue": { "en": "ACM Symposium on Applied Perception 2025 (ACM SAP 2025)，pp.1-9，2025" },
+      "links": [ { "label": "10.1145/3736702.3744360", "href": "https://doi.org/10.1145/3736702.3744360" } ]
+    },
+    {
+      "id": "i-sap2025-sommelier",
+      "section": "international",
+      "year": 2025,
+      "authors": { "en": "Yusuke Arikawa, Yusuke Koseki, <u>Kizashi Nakano</u>, Takuji Narumi, and Hideaki Kuzuoka" },
+      "title": { "en": "Embodied Expertise: The Impact of Sommelier Avatars on Wine Flavor Perception" },
+      "venue": { "en": "ACM Symposium on Applied Perception 2025 (ACM SAP 2025)，pp.1-10，2025" },
+      "links": [ { "label": "10.1145/3736702.3744356", "href": "https://doi.org/10.1145/3736702.3744356" } ]
+    },
+    {
+      "id": "i-ahs2025-coembodied",
+      "section": "international",
+      "year": 2025,
+      "authors": { "en": "Yusuke Koseki, <u>Kizashi Nakano</u>, Takuji Narumi, Hideaki Kuzuoka, and Tomohiro Amemiya" },
+      "title": { "en": "Co-embodied Mirroring: Preliminary Investigating the Effects of Movement Blending on Partner Impressions" },
+      "venue": { "en": "Augmented Humans International Conference (AHs 2025)，pp.455-458，2025" },
+      "links": [ { "label": "10.1145/3745900.3746070", "href": "https://doi.org/10.1145/3745900.3746070" } ]
+    },
+    {
+      "id": "i-apmar2024-proteus",
+      "section": "international",
+      "year": 2024,
+      "authors": { "en": "Erika Kimura, Adelaide Genay, <u>Kizashi Nakano</u>, Yutaro Hirao, Monica Perusquía-Hernández, Takuji Narumi, Hideaki Uchiyama, and Kiyoshi Kiyokawa" },
+      "title": { "en": "Reducing the Proteus Effect in Virtual Reality: A Mental and Acting Approach" },
+      "venue": { "en": "APMAR 2024，pp.1-13，2024" },
+      "links": [ { "label": "dblp", "href": "https://dblp.uni-trier.de/rec/conf/apmar/KimuraGNHPNUK24.html" } ]
+    },
+    {
+      "id": "i-icategve2024-proteus",
+      "section": "international",
+      "year": 2024,
+      "authors": { "en": "Erika Kimura, Adelaide Genay, <u>Kizashi Nakano</u>, Yutaro Hirao, Monica Perusquía-Hernández, Takuji Narumi, Hideaki Uchiyama, and Kiyoshi Kiyokawa" },
+      "title": { "en": "Reducing the Proteus Effect in Virtual Reality: A Mental and Acting Approach" },
+      "venue": { "en": "ICAT-EGVE 2024 Posters & Demos，2024" },
+      "links": [ { "label": "10.2312/egve.20241393", "href": "https://doi.org/10.2312/egve.20241393" } ]
+    },
+    {
+      "id": "i-sa2023-drinking",
+      "section": "international",
+      "year": 2023,
+      "authors": { "en": "Yusuke Koseki, Yusuke Arikawa, <u>Kizashi Nakano</u>, and Takuji Narumi" },
+      "title": { "en": "Avatars for Good Drinking: An Exploratory Study of The Effects of Avatar's Body Shape on Beverage Perception" },
+      "venue": { "en": "SIGGRAPH Asia 2023 Posters，pp.1-2，2023" },
+      "links": [ { "label": "10.1145/3610542.3626144", "href": "https://doi.org/10.1145/3610542.3626144" } ]
+    },
+    {
+      "id": "i-ismar2023-mouth",
+      "section": "international",
+      "year": 2023,
+      "authors": { "en": "<u>Kizashi Nakano</u>, Monica Perusquia-Hernandez, Naoya Isoyama, Hideaki Uchiyama, and Kiyoshi Kiyokawa" },
+      "title": { "en": "Effects of Visual Presentation Near the Mouth on Cross-Modal Effects of Multisensory Flavor Perception and Ease of Eating" },
+      "venue": { "en": "Proceedings of the 18th IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR)，pp.901-911，2023" },
+      "links": [
+        { "label": "10.1109/ISMAR59233.2023.00106", "href": "https://doi.org/10.1109/ISMAR59233.2023.00106" },
+        { "label": "YouTube", "href": "https://youtu.be/sbLb_aaa6Dg" }
+      ]
+    },
+    {
+      "id": "i-chi2022-ukemochi",
+      "section": "international",
+      "year": 2022,
+      "authors": { "en": "<u>Kizashi Nakano</u>, Daichi Horita, Naoya Isoyama, Hideki Uchiyama and Kiyoshi Kiyokawa" },
+      "title": { "en": "Ukemochi: A Video See-through Food Overlay System for Eating Experience in the Metaverse" },
+      "venue": { "en": "CHI Conference on Human Factors in Computing Systems Extended Abstracts (ACM CHI LBWs)，380, pp.1-8，2022" },
+      "links": [
+        { "label": "10.1145/3491101.3519779", "href": "https://doi.org/10.1145/3491101.3519779" },
+        { "label": "YouTube", "href": "https://www.youtube.com/watch?v=dFAB1Uxz3zU" },
+        { "label": "LINK", "href": "https://www.itmedia.co.jp/news/articles/2205/09/news020.html" }
+      ]
+    },
+    {
+      "id": "i-ismar2019-deeptaste",
+      "section": "international",
+      "year": 2019,
+      "authors": { "en": "<u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi" },
+      "title": { "en": "DeepTaste: Augmented Reality Gustatory Manipulation with GAN-based Real-time Food-to-food Translation" },
+      "venue": { "en": "Proceedings of the 18th IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR)，pp.328-339，2019" },
+      "links": [
+        { "label": "10.1109/ISMAR.2019.000-1", "href": "https://doi.org/10.1109/ISMAR.2019.000-1" },
+        { "label": "YouTube", "href": "https://www.youtube.com/watch?v=BJaQ5IF6iEI" }
+      ]
+    },
+    {
+      "id": "i-ieeevr2019-noodles",
+      "section": "international",
+      "year": 2019,
+      "authors": { "en": "<u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi" },
+      "title": { "en": "Enchanting Your Noodles: GAN-based Real-time Food-to-Food Translation and Its Impact on Vision-induced Gustatory Manipulation" },
+      "venue": { "en": "Proceedings of the 26th IEEE Conference on Virtual Reality (IEEE VR)，pp.1096-1097，2019" },
+      "links": [
+        { "label": "10.1109/VR.2019.8798336", "href": "https://doi.org/10.1109/VR.2019.8798336" },
+        { "label": "LINK", "href": "http://www.ieeevr.org/2019/program/posters.html" },
+        { "label": "YouTube", "href": "https://www.youtube.com/watch?v=BJaQ5IF6iEI" },
+        { "label": "LINK", "href": "https://shiropen.com/seamless/enchanting-your-noodles" },
+        { "label": "LINK", "href": "https://nazology.net/archives/33340" },
+        { "label": "LINK", "href": "https://www.moguravr.com/ar-ramen-yakisoba/" }
+      ]
+    },
+
+    {
+      "id": "d-jvrsj2025-scent",
+      "section": "domestic",
+      "year": 2025,
+      "in_japanese": true,
+      "authors": { "ja": "谷川智洋，和田有史，宮下芳明，春原吉美，新島有信，<u>中野萌士</u>，高野詩菜", "en": "Tomohiro Tanikawa, Yuji Wada, Homei Miyashita, Yoshimi Sunohara, Arinobu Niijima, <u>Kizashi Nakano</u>, and Shina Takano" },
+      "title": { "ja": "小特集 香り・味提示のこれから : 予想と期待", "en": "Special Issue: The Future of Scent and Taste Presentation — Predictions and Expectations" },
+      "venue": { "ja": "日本バーチャルリアリティ学会誌 30巻2号，pp.27-32，2025年6月", "en": "Journal of the Virtual Reality Society of Japan, Vol.30, No.2, pp.27-32, Jun. 2025" },
+      "links": [ { "label": "10.18974/jvrsj.30.2_27", "href": "https://doi.org/10.18974/jvrsj.30.2_27" } ]
+    },
+    {
+      "id": "d-vrsj2025-ajigiri-ws",
+      "section": "domestic",
+      "year": 2025,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野萌士</u>", "en": "<u>Kizashi Nakano</u>" },
+      "title": { "ja": "味喜利のビデオ分析を通じた味覚的コメディの実現に向けた検討", "en": "A Study Toward Realizing Gustatory Comedy Through Video Analysis of Ajigiri" },
+      "venue": { "ja": "第34回 日本バーチャルリアリティ学会 香り・味と生体情報研究委員会研究会，2025", "en": "The 34th Meeting of the Research Committee on Scent, Taste, and Bio-Information, the Virtual Reality Society of Japan, 2025" },
+      "links": []
+    },
+    {
+      "id": "d-tvrsj2024-preface",
+      "section": "domestic",
+      "year": 2024,
+      "in_japanese": true,
+      "authors": { "ja": "伊藤研一郎，安藤英由樹，雨宮智浩，青山一真，<u>中野萌士</u>", "en": "Kenichiro Ito, Hideyuki Ando, Tomohiro Amemiya, Kazuma Aoyama, and <u>Kizashi Nakano</u>" },
+      "title": { "ja": "「メタバースとVR」特集号刊行にあたって", "en": "Preface to the Special Issue on Metaverse and VR" },
+      "venue": { "ja": "日本バーチャルリアリティ学会論文誌 29巻3号，p.99，2024年9月", "en": "Transactions of the Virtual Reality Society of Japan, Vol.29, No.3, p.99, Sep. 2024" },
+      "links": [ { "label": "10.18974/tvrsj.29.3_99", "href": "https://doi.org/10.18974/tvrsj.29.3_99" } ]
+    },
+    {
+      "id": "d-wiss2025-ambient",
+      "section": "domestic",
+      "year": 2025,
+      "in_japanese": true,
+      "authors": { "ja": "松本篤弥，<u>中野萌士</u>，鳴海拓志，葛岡英明", "en": "Atsuya Matsumoto, <u>Kizashi Nakano</u>, Takuji Narumi, and Hideaki Kuzuoka" },
+      "title": { "ja": "Ambient Co-Experience Agents: ユーザとエージェントの共体験感覚を演出する音声会話システム", "en": "Ambient Co-Experience Agents: A Voice Conversation System that Creates a Sense of Co-Experience between Users and Agents" },
+      "venue": { "ja": "WISS2025 第33回インタラクティブシステムとソフトウェアに関するワークショップ，1-B04，2025", "en": "WISS 2025 (the 33rd Workshop on Interactive Systems and Software), 1-B04, 2025" },
+      "links": [ { "label": "PDF", "href": "https://www.wiss.org/WISS2025Proceedings/data/demo/1-B04.pdf" } ]
+    },
+    {
+      "id": "d-vrsj2025-tenshi",
+      "section": "domestic",
+      "year": 2025,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野萌士</u>，松倉悠，谷川智洋，横井総太朗，大原嶺，村山皓平，柳田康幸，鳴海拓志，和田有史，大野雅貴", "en": "<u>Kizashi Nakano</u>, Haruka Matsukura, Tomohiro Tanikawa, Sotaro Yokoi, Ryo Ohara, Kohei Murayama, Yasuyuki Yanagida, Takuji Narumi, Yuji Wada, and Masaki Ohno" },
+      "title": { "ja": "天使の輪っかの味を作ろう 〜コンテンツから考える味覚インタフェースの未来〜", "en": "Let's Create the Taste of an Angel's Halo: The Future of Gustatory Interfaces from a Content Perspective" },
+      "venue": { "ja": "第30回日本VR学会大会論文集，OS1H5，2025", "en": "Proceedings of the 30th Annual Conference of the Virtual Reality Society of Japan, OS1H5, 2025" },
+      "links": [ { "label": "PDF", "href": "https://conference.vrsj.org/ac2025/program/doc/OS1H5.pdf" } ]
+    },
+    {
+      "id": "d-vrsj2025-split",
+      "section": "domestic",
+      "year": 2025,
+      "in_japanese": true,
+      "authors": { "ja": "近藤亮太，<u>中野萌士</u>", "en": "Ryota Kondo and <u>Kizashi Nakano</u>" },
+      "title": { "ja": "下方視野拡大HMDを用いた上下半身の分裂ドリフト錯覚", "en": "Split and Drift Illusion of the Upper and Lower Body Using an HMD with an Increased Downward Field of View" },
+      "venue": { "ja": "第30回日本VR学会大会論文集，3G-03，2025", "en": "Proceedings of the 30th Annual Conference of the Virtual Reality Society of Japan, 3G-03, 2025" },
+      "links": [ { "label": "PDF", "href": "https://conference.vrsj.org/ac2025/program/doc/3G-03.pdf" } ]
+    },
+    {
+      "id": "d-vrsj2025-rdw",
+      "section": "domestic",
+      "year": 2025,
+      "in_japanese": true,
+      "authors": { "ja": "有川由祐，<u>中野萌士</u>，松本啓吾，鳴海拓志", "en": "Yusuke Arikawa, <u>Kizashi Nakano</u>, Keigo Matsumoto, and Takuji Narumi" },
+      "title": { "ja": "下方視野の提示がリダイレクテッドウォーキングの知覚閾値に与える影響", "en": "Effects of Downward Field-of-View Presentation on Detection Thresholds in Redirected Walking" },
+      "venue": { "ja": "第30回日本VR学会大会論文集，3D1-05，2025", "en": "Proceedings of the 30th Annual Conference of the Virtual Reality Society of Japan, 3D1-05, 2025" },
+      "links": [ { "label": "PDF", "href": "https://conference.vrsj.org/ac2025/program/doc/3D1-05.pdf" } ]
+    },
+    {
+      "id": "d-vrsj2025-flavor-avatar",
+      "section": "domestic",
+      "year": 2025,
+      "in_japanese": true,
+      "authors": { "ja": "有川由祐，小関裕介，<u>中野萌士</u>，鳴海拓志，葛岡英明", "en": "Yusuke Arikawa, Yusuke Koseki, <u>Kizashi Nakano</u>, Takuji Narumi, and Hideaki Kuzuoka" },
+      "title": { "ja": "アバタの想起させる風味イメージが飲料の風味知覚に与える影響", "en": "Effects of Avatar-Evoked Flavor Images on Beverage Flavor Perception" },
+      "venue": { "ja": "第30回日本VR学会大会論文集，2D2-07，2025", "en": "Proceedings of the 30th Annual Conference of the Virtual Reality Society of Japan, 2D2-07, 2025" },
+      "links": [ { "label": "PDF", "href": "https://conference.vrsj.org/ac2025/program/doc/2D2-07.pdf" } ]
+    },
+    {
+      "id": "d-ieice2024-fov-flavor",
+      "section": "domestic",
+      "year": 2024,
+      "in_japanese": true,
+      "authors": { "ja": "小関裕介，大野雅貴，<u>中野萌士</u>， 鳴海拓志", "en": "Yusuke Koseki, Masaki Ohno, <u>Kizashi Nakano</u>, and Takuji Narumi" },
+      "title": { "ja": "下方視野を拡大したHMDを用いたアバタの視覚情報提示が風味知覚に与える影響の基礎検討", "en": "A Basic Study on the Effects of Avatar Visual Presentation Using an HMD with an Increased Downward Field of View on Flavor Perception" },
+      "venue": { "ja": "IE/IMQ/MVE/AC/CQ合同研究会，2024", "en": "IEICE Technical Report (IE/IMQ/MVE/AC/CQ Joint Meeting), 2024" },
+      "links": [ { "label": "PDF", "href": "https://ken.ieice.org/ken/paper/202409264c4P/" } ]
+    },
+    {
+      "id": "d-vrsj2024-stereotype",
+      "section": "domestic",
+      "year": 2024,
+      "in_japanese": true,
+      "authors": { "ja": "木村江梨花，ジェネイ アデレード，<u>中野萌士</u>，平尾悠太朗，ペルスキアエルナンデス モニカ，鳴海拓志，内山英昭，清川清", "en": "Erika Kimura, Adelaide Genay, <u>Kizashi Nakano</u>, Yutaro Hirao, Monica Perusquía-Hernández, Takuji Narumi, Hideaki Uchiyama, and Kiyoshi Kiyokawa" },
+      "title": { "ja": "ステレオタイプを強化・軽減する準備作業がプロテウス効果に与える影響", "en": "Effects of Preparatory Tasks that Reinforce or Reduce Stereotypes on the Proteus Effect" },
+      "venue": { "ja": "第29回日本VR学会大会論文集，2D1-09，2024", "en": "Proceedings of the 29th Annual Conference of the Virtual Reality Society of Japan, 2D1-09, 2024" },
+      "links": [ { "label": "PDF", "href": "https://conference.vrsj.org/ac2024/program/doc/2D1-09.pdf" } ]
+    },
+    {
+      "id": "d-vrsj2024-bird",
+      "section": "domestic",
+      "year": 2024,
+      "in_japanese": true,
+      "authors": { "ja": "小関裕介，大野雅貴，<u>中野萌士</u>，有川由祐，葛岡英明，鳴海拓志", "en": "Yusuke Koseki, Masaki Ohno, <u>Kizashi Nakano</u>, Yusuke Arikawa, Hideaki Kuzuoka, and Takuji Narumi" },
+      "title": { "ja": "鳥アバタを用いたVR体験が昆虫食受容に与える影響", "en": "Effects of a VR Experience with a Bird Avatar on the Acceptance of Entomophagy" },
+      "venue": { "ja": "第29回日本VR学会大会論文集，2D1-02，2024", "en": "Proceedings of the 29th Annual Conference of the Virtual Reality Society of Japan, 2D1-02, 2024" },
+      "links": [ { "label": "PDF", "href": "https://conference.vrsj.org/ac2024/program/doc/2D1-02.pdf" } ]
+    },
+    {
+      "id": "d-ieice2024-mirroring",
+      "section": "domestic",
+      "year": 2024,
+      "in_japanese": true,
+      "authors": { "ja": "小関裕介，<u>中野萌士</u>，鳴海拓志，葛岡英明，雨宮智浩", "en": "Yusuke Koseki, <u>Kizashi Nakano</u>, Takuji Narumi, Hideaki Kuzuoka, and Tomohiro Amemiya" },
+      "title": { "ja": "対話者アバタの融合身体的ミラーリングが相手の印象に与える影響", "en": "Effects of Co-embodied Mirroring of Interlocutor Avatars on Partner Impressions" },
+      "venue": { "ja": "IE/IMQ/MVE/AC/CQ合同研究会，2024", "en": "IEICE Technical Report (IE/IMQ/MVE/AC/CQ Joint Meeting), 2024" },
+      "links": [ { "label": "PDF", "href": "https://ken.ieice.org/ken/paper/202403148c1q/" } ]
+    },
+    {
+      "id": "d-ieice2022-door",
+      "section": "domestic",
+      "year": 2022,
+      "in_japanese": true,
+      "authors": { "ja": "藤澤岳瞭，<u>中野萌士</u>，モニカペルスキアエルナンデス，磯山直也，内山英昭，清川清", "en": "Takaaki Fujisawa, <u>Kizashi Nakano</u>, Monica Perusquía-Hernández, Naoya Isoyama, Hideaki Uchiyama, and Kiyoshi Kiyokawa" },
+      "title": { "ja": "VR体験向上のためのビデオシースルーARと物理ドアを用いた実環境とVR環境間の遷移手法の提案", "en": "A Transition Method between Real and VR Environments Using Video See-through AR and a Physical Door for Improving VR Experiences" },
+      "venue": { "ja": "メディアエクスペリエンス・バーチャル環境基礎研究会 122(175)，pp.1-2，2022", "en": "IEICE Technical Report, MVE (Media Experience and Virtual Environment), 122(175), pp.1-2, 2022" },
+      "links": [ { "label": "PDF", "href": "https://ken.ieice.org/ken/download/202301276Cq2/" } ]
+    },
+    {
+      "id": "d-vrsj2022-eating",
+      "section": "domestic",
+      "year": 2022,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野萌士</u>，モニカペルスキアエルナンデス，磯山直也，内山英昭，清川清", "en": "<u>Kizashi Nakano</u>, Monica Perusquía-Hernández, Naoya Isoyama, Hideaki Uchiyama, and Kiyoshi Kiyokawa" },
+      "title": { "ja": "下方視野を拡大したヘッドマウントディスプレイが食べやすさやクロスモーダル効果に与える影響", "en": "Effects of a Head-Mounted Display with an Increased Downward Field of View on Ease of Eating and Cross-Modal Effects" },
+      "venue": { "ja": "第27回日本VR学会大会論文集，2G-25，2022", "en": "Proceedings of the 27th Annual Conference of the Virtual Reality Society of Japan, 2G-25, 2022" },
+      "links": [
+        { "label": "PDF", "href": "https://conference.vrsj.org/ac2022/program/doc/2G-25.pdf" },
+        { "label": "YouTube", "href": "https://youtu.be/nDKGNIjwz0M" }
+      ]
+    },
+    {
+      "id": "d-vrsj2021-dragon",
+      "section": "domestic",
+      "year": 2021,
+      "in_japanese": true,
+      "authors": { "ja": "小柳陽光, <u>中野萌士</u>，鳴海拓志，雨宮智宏", "en": "Akimi Oyanagi, <u>Kizashi Nakano</u>, Takuji Narumi, and Tomohiro Amemiya" },
+      "title": { "ja": "VR 体験でのドラゴンの肉の食事が味の認知に及ぼす影響", "en": "The Impact of Eating Dragon Meat in a VR Experience on Taste Perception" },
+      "venue": { "ja": "第26回日本VR学会大会論文集，1B1-8，2021", "en": "Proceedings of the 26th Annual Conference of the Virtual Reality Society of Japan, 1B1-8, 2021" },
+      "links": [ { "label": "PDF", "href": "http://conference.vrsj.org/ac2021/program/doc/1B1-8.pdf" } ]
+    },
+    {
+      "id": "d-vrsj2021-proteus-ar",
+      "section": "domestic",
+      "year": 2021,
+      "authors": { "en": "Riku Otono, Yusuke Shikanai, <u>Kizashi Nakano</u>，Naoya Isoyama，Hideki Uchiyama，Kiyoshi Kiyokawa" },
+      "title": { "en": "The Proteus Effect in Augmented Reality: Impact of Avatar Age and User Perspective on Walking Behaviors" },
+      "venue": { "ja": "第26回日本VR学会大会論文集，1C3-1，2021", "en": "Proceedings of the 26th Annual Conference of the Virtual Reality Society of Japan, 1C3-1, 2021" },
+      "links": [
+        { "label": "PDF", "href": "http://conference.vrsj.org/ac2021/program/doc/1C3-1.pdf" },
+        { "label": "YouTube", "href": "https://youtu.be/-pQLiKttbr8" }
+      ]
+    },
+    {
+      "id": "d-interaction2020",
+      "section": "domestic",
+      "year": 2020,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野萌士</u>，磯山直也，酒田信親，清川清", "en": "<u>Kizashi Nakano</u>, Naoya Isoyama, Nobuchika Sakata, and Kiyoshi Kiyokawa" },
+      "title": { "ja": "下方視野を拡大したHMDの開発と評価", "en": "Development and Evaluation of an HMD with an Increased Downward Field of View" },
+      "venue": { "ja": "第24回一般社団法人情報処理学会シンポジウムインタラクション2020，pp.106-114，2020", "en": "IPSJ Interaction 2020, pp.106-114, 2020" },
+      "links": [
+        { "label": "PDF", "href": "http://www.interaction-ipsj.org/proceedings/2020/data/pdf/INT20012.pdf" },
+        { "label": "YouTube", "href": "https://www.youtube.com/watch?v=7yig_w3X0PI" }
+      ]
+    },
+    {
+      "id": "d-vrsj2018-noodles",
+      "section": "domestic",
+      "year": 2018,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野萌士</u>，鳴海拓志，酒田信親，清川清", "en": "<u>Kizashi Nakano</u>, Takuji Narumi, Nobuchika Sakata, and Kiyoshi Kiyokawa" },
+      "title": { "ja": "麺類を対象とした視覚変調による味覚操作インタフェースの有効性評価", "en": "Effectiveness Evaluation of a Gustatory Manipulation Interface Using Visual Modulation for Noodles" },
+      "venue": { "ja": "第23回日本VR学会大会論文集，21B-1，2018", "en": "Proceedings of the 23rd Annual Conference of the Virtual Reality Society of Japan, 21B-1, 2018" },
+      "links": [
+        { "label": "PDF", "href": "http://conference.vrsj.org/ac2018/program2018/pdf/21B-1.pdf" },
+        { "label": "YouTube", "href": "https://www.youtube.com/watch?v=z53xW_BIaZE" }
+      ]
+    },
+    {
+      "id": "d-si2017-aramen",
+      "section": "domestic",
+      "year": 2017,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野萌士</u>", "en": "<u>Kizashi Nakano</u>" },
+      "title": { "ja": "拡張現実感による味覚変化の持続を目指したARamenの開発～ただ,ラーメンが食べたかった Part2～", "en": "Development of ARamen Aiming at Persistent Gustatory Change through Augmented Reality: I Just Wanted to Eat Ramen, Part 2" },
+      "venue": { "ja": "第6回サイエンス・インカレ研究発表会要約集, p.37 (1ページ), 2017", "en": "Abstracts of the 6th Science Inter-College, p.37, 2017" },
+      "links": [ { "label": "PDF", "href": "http://www.mext.go.jp/b_menu/houdou/29/03/__icsFiles/afieldfile/2017/03/16/1383477_01_2.pdf" } ]
+    },
+    {
+      "id": "d-si2016-aramen",
+      "section": "domestic",
+      "year": 2016,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野萌士</u>, 津田英知", "en": "<u>Kizashi Nakano</u> and Eichi Tsuda" },
+      "title": { "ja": "拡張現実感を用いた味覚操作システムの開発　～ただ、ラーメンが食べたかった～", "en": "Development of a Gustatory Manipulation System Using Augmented Reality: I Just Wanted to Eat Ramen" },
+      "venue": { "ja": "第5回サイエンス・インカレ研究発表会要約集, p.45 (1ページ),　2016", "en": "Abstracts of the 5th Science Inter-College, p.45, 2016" },
+      "award": { "ja": "国立研究開発法人科学技術振興機構理事長賞】及び【サイエンス・インカレ審査員奨励賞", "en": "JST President's Award】and【Science Inter-College Judges' Special Encouragement Award" },
+      "links": [
+        { "label": "LINK", "href": "http://www.mext.go.jp/b_menu/houdou/28/03/1368031.htm" },
+        { "label": "PDF", "href": "http://www.mext.go.jp/b_menu/houdou/28/03/__icsFiles/afieldfile/2016/03/08/1368031_01.pdf" },
+        { "label": "PDF", "href": "https://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h28/h_28_014.pdf" }
+      ]
+    },
+    {
+      "id": "d-si2015-robot",
+      "section": "domestic",
+      "year": 2015,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野萌士</u>, 入江大地", "en": "<u>Kizashi Nakano</u> and Daichi Irie" },
+      "title": { "ja": "ロボット学習教材における学習障壁のバリアフリー化～学生視点のプログラミング教育教材の開発～", "en": "Barrier-Free Learning with Robot Education Materials: Development of Programming Education Materials from a Student's Perspective" },
+      "venue": { "ja": "第4回サイエンス・インカレ研究発表会要約集, p.168 (1ページ), 2015", "en": "Abstracts of the 4th Science Inter-College, p.168, 2015" },
+      "award": { "ja": "日本産業技術教育学会 第9回技術教育創造の世界（大学生版）発明工夫コンテスト　教材開発部門　奨励賞", "en": "Encouragement Award (Teaching Material Development Category), the 9th Invention Contest, the Japan Society of Technology Education" },
+      "links": [
+        { "label": "PDF", "href": "http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h26/h_26_240.pdf" },
+        { "label": "PDF", "href": "http://www.mext.go.jp/b_menu/houdou/27/03/__icsFiles/afieldfile/2015/03/02/1355593_02_1.pdf" },
+        { "label": "LINK", "href": "http://www.mura-lab.info/contest-u/2014/result/index.html" }
+      ]
+    },
+
+    {
+      "id": "patent-hmd",
+      "section": "patent",
+      "year": 2020,
+      "in_japanese": true,
+      "authors": { "ja": "<u>中野萌士</u>，磯山直也，酒田信親，清川清", "en": "<u>Kizashi Nakano</u>, Naoya Isoyama, Nobuchika Sakata, and Kiyoshi Kiyokawa" },
+      "title": { "ja": "垂直視野拡大ヘッドマウントディスプレイ装置", "en": "Head-Mounted Display Device with an Expanded Vertical Field of View" },
+      "venue": { "ja": "特願2020-038201, 特開2021-140047, 2020", "en": "Japanese Patent Application No. 2020-038201, Publication No. 2021-140047, 2020" },
+      "links": [ { "label": "LINK", "href": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202103005697977719&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%E4%B8%AD%E9%87%8E%E8%90%8C%E5%A3%AB%22%7D" } ]
+    }
+  ]
+}
