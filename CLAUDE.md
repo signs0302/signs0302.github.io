@@ -11,8 +11,11 @@ Bootstrap 5.3.3（jsDelivr, jQuery不使用）。変更したら**コミット�
 | `cv_JP.html` / `cv_ENG.html` | CV（日本語版／英語版）。**cv.htmlはcv_JP.htmlへのリダイレクトなので編集しない** |
 | `projects.html` | プロジェクト一覧（カードグリッド） |
 | `projects/*.html` | 個別プロジェクトページ（雛形: `projects/_template.html`） |
-| `data/publications.json` | **論文データの一元管理**（論文誌・国際会議・国内会議・特許） |
-| `js/publications.js` | JSONを読み込んで各ページに描画するレンダラ |
+| `data/publications.json` | **論文データの一元管理**（論文誌・国際会議・国内会議・特許、構造化形式） |
+| `data/cv.json` | **CVの他セクションの一元管理**（学会発表・受賞・科研費・委員会・その他、ja/enのHTMLチャンク形式） |
+| `js/publications.js` | 上記2つのJSONを読み込んで各ページに描画するレンダラ |
+| `js/theme.js` | ダークモード切替（ナビの月アイコン、localStorageに保存） |
+| `sitemap.xml` / `robots.txt` / JSON-LD(index.html内) | SEO関連。ページを増やしたらsitemap.xmlにも追加 |
 | `profile.html` | プロフィール |
 | `fuji.html`, `link.html`, `old/`, `index_photo.html` | 旧アーカイブ。原則触らない（fuji.htmlはBootstrap 4のまま） |
 
@@ -49,10 +52,11 @@ Bootstrap 5.3.3（jsDelivr, jQuery不使用）。変更したら**コミット�
 - **進学・卒業は書かない**（着任などの職歴はOK）
 - 対象：論文採録・学会発表・受賞・科研費等の採択・メディア掲載・展示
 
-### 4. CVの静的セクション（該当する場合）
+### 4. CVの他セクション（該当する場合）
 
 学会発表(Presentations)・受賞(Awards)・科研費(Grants)・委員会・その他(Others)は
-**cv_JP.html と cv_ENG.html の両方に手書き**なので、該当があれば両方に追記する。
+**data/cv.json** で一元管理。該当セクションの配列の先頭に `{"ja": "<li>...</li><br>", "en": "<li>...</li><br>"}`
+形式（awards/othersは `<li>...</li>` ＋リンクボタン＋`<br>` のチャンク）で追加する。件数は自動カウント。
 
 ### 5. 最終更新日コメント
 
