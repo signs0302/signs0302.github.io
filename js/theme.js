@@ -1,19 +1,18 @@
 /*
- * theme.js — ダークモード切替
- * localStorageに保存し、次回訪問時も維持する。
- * ナビの月アイコンボタン（onclick="toggleTheme()"）から呼ばれる。
+ * theme.js — ダークモード自動追従
+ * OSの設定（prefers-color-scheme）に合わせてライト／ダークを自動で切り替える。
+ * OS側の設定変更にもリアルタイムで追従する。手動トグルはなし。
  */
 (function () {
   'use strict';
-  var saved = null;
-  try { saved = localStorage.getItem('theme'); } catch (e) {}
-  if (saved === 'dark' || saved === 'light') {
-    document.documentElement.setAttribute('data-bs-theme', saved);
+  var mq = window.matchMedia('(prefers-color-scheme: dark)');
+  function apply() {
+    document.documentElement.setAttribute('data-bs-theme', mq.matches ? 'dark' : 'light');
   }
-  window.toggleTheme = function () {
-    var cur = document.documentElement.getAttribute('data-bs-theme') === 'dark' ? 'light' : 'dark';
-    document.documentElement.setAttribute('data-bs-theme', cur);
-    try { localStorage.setItem('theme', cur); } catch (e) {}
-    return false;
-  };
+  apply();
+  if (mq.addEventListener) {
+    mq.addEventListener('change', apply);
+  } else if (mq.addListener) {
+    mq.addListener(apply); // 古いブラウザ用
+  }
 })();
