@@ -67,6 +67,16 @@ cv_JP.html / cv_ENG.html の2行目のコメントを更新：
 
 内容が分かるメッセージでコミットしてpush。
 
+## 英文のスタイル（AIっぽい英語を書かない）
+
+サイトに載せる英語の説明文（プロジェクトのOverview等）は、AI生成にありがちな癖を避けて簡潔な研究者の英語で書く：
+
+- ダッシュ（—）で挿入句を挟まない。カッコか別の文に分ける
+- "This allows users to..." / "This project explores..." / "novel" / "cutting-edge" / "seamlessly" / "delve" などの常套句を使わない
+- 3つ並べて整えるリズム（A, B, and C の連発）を避ける
+- 1文を短く。事実を主語にして淡々と書く（"We built X and found Y" 調）
+- 論文タイトルの英訳は直訳でよい（スタイル修正の対象外）
+
 ## 注意事項
 
 - 論文リストはJSONをfetchで読むため、**file:// で開くと表示されない**。確認はVSCodeのLive PreviewかGitHub Pages上で行う
