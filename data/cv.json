@@ -1,0 +1,463 @@
+{
+  "_readme": "CVの学会発表・科研費・委員会・賞罰・その他のデータ。各エントリは ja/en のHTMLチャンク（<li>...とリンクボタン）。cv_JP.html / cv_ENG.html が js/publications.js 経由で読み込む。新しい項目は該当セクションの先頭に ja/en 両方書いて追加する。論文はdata/publications.json（構造化形式）の方を使うこと。",
+  "sections": {
+    "presentations_oral": [
+      {
+        "ja": "<li><b><u>Kizashi Nakano</u> and Takuji Narumi</b><br> \"Avatars, Should We Look at Them Directly or Through a Mirror?: Effects of Avatar Display Method on Sense of Embodiment and Gaze\",\n                    <br>IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2025), pp.2912-2922, 2025<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/TVCG.2025.3549545\">10.1109/TVCG.2025.3549545</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/9rbjt-XhC4U\">YouTube</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/xQej3Z1b5-s\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u> and Takuji Narumi</b><br> \"Avatars, Should We Look at Them Directly or Through a Mirror?: Effects of Avatar Display Method on Sense of Embodiment and Gaze\",\n                    <br>IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2025), pp.2912-2922, 2025<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/TVCG.2025.3549545\">10.1109/TVCG.2025.3549545</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/9rbjt-XhC4U\">YouTube</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/xQej3Z1b5-s\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u></b><br> \"口元付近への視覚提示が多感覚的な風味知覚と食べやすさに及ぼす影響\",\n                    <br>FIT2024 第23回情報科学技術フォーラム，2024<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/ISMAR59233.2023.00106\">10.1109/ISMAR59233.2023.00106</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipsj.or.jp/event/fit/fit2024/abstract/data/html/event/event_TCS7-2.html\">Link</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u></b><br> \"Effects of Visual Presentation Near the Mouth on Multisensory Flavor Perception and Ease of Eating\" (in Japanese),\n                    <br>FIT2024 (the 23rd Forum on Information Technology), 2024<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/ISMAR59233.2023.00106\">10.1109/ISMAR59233.2023.00106</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipsj.or.jp/event/fit/fit2024/abstract/data/html/event/event_TCS7-2.html\">Link</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u></b><br> \"下方視野で視認可能な自己身体について\",\n                    <br>第6回共調的社会脳研究会，2024<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/csbg/abstracts?authuser=0\">Link</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u></b><br> \"On the Self-Body Visible in the Downward Field of View\" (in Japanese),\n                    <br>The 6th Workshop on Cooperative Social Brain, 2024<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/csbg/abstracts?authuser=0\">Link</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u></b><br> \"好きな食物を好きな人と好きな場所で食べられるAR/VR研究\",\n                    <br>Future Humanity－身体と感覚が紡ぐ未来シナリオ，2024<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://uoc.world/mandala/details/?id=pm0hf1b7vh7\">Link</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u></b><br> \"AR/VR Research for Eating Favorite Foods with Favorite People in Favorite Places\" (in Japanese),\n                    <br>Future Humanity: Future Scenarios Woven by Body and Senses, 2024<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://uoc.world/mandala/details/?id=pm0hf1b7vh7\">Link</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u></b><br> \"好きな食物を好きな人と好きな場所で食べられるAR/VR研究+@\",\n                    <br>コミュニケーションセミナーシリーズ 第16回, 共調的社会脳研究会 and「人間とは何か?」研究会，2023<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://drive.google.com/file/d/1GL_LCR3IzYkHryRpfaENez8p63jflDj3/view\">Link</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u></b><br> \"AR/VR Research for Eating Favorite Foods with Favorite People in Favorite Places +@\" (in Japanese),\n                    <br>Communication Seminar Series #16, Workshop on Cooperative Social Brain and \"What is Human?\" Research Group, 2023<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://drive.google.com/file/d/1GL_LCR3IzYkHryRpfaENez8p63jflDj3/view\">Link</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u></b><br> \"VR 研究における共調的身体について\",\n                    <br>第5回共調的社会脳研究会，2023<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/csbg/abstracts?authuser=0\">Link</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u></b><br> \"On Cooperative Bodies in VR Research\" (in Japanese),\n                    <br>The 5th Workshop on Cooperative Social Brain, 2023<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/csbg/abstracts?authuser=0\">Link</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>Kizashi Nakano</u>, Monica Perusquia-Hernandez, Naoya Isoyama, Hideaki Uchiyama, and Kiyoshi Kiyokawa</b><br>\n                     \"Effects of Visual Presentation Near the Mouth on Cross-Modal Effects of Multisensory Flavor Perception and Ease of Eating\",\n                    <br>Proceedings of the 18th IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR)，pp.901-911，2023<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/ISMAR59233.2023.00106\">10.1109/ISMAR59233.2023.00106</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/sbLb_aaa6Dg\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Monica Perusquia-Hernandez, Naoya Isoyama, Hideaki Uchiyama, and Kiyoshi Kiyokawa</b><br>\n                     \"Effects of Visual Presentation Near the Mouth on Cross-Modal Effects of Multisensory Flavor Perception and Ease of Eating\",\n                    <br>Proceedings of the 18th IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR), pp.901-911, 2023<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/ISMAR59233.2023.00106\">10.1109/ISMAR59233.2023.00106</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/sbLb_aaa6Dg\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u></b><br> \"垂直下方向の視野を拡大したヘッドマウントディスプレイはプレゼンスと自己位置感覚を向上させる\",\n                    <br>FIT2022 第21回情報科学技術フォーラム，2022<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/TVCG.2021.3106513\">10.1109/TVCG.2021.3106513</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://onsite.gakkai-web.net/fit2022/abstract/data/html/event/event_TCS7-2.html\">Link</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u></b><br> \"Head-Mounted Display with an Increased Vertical Downward Field of View Improves Presence and Sense of Self-Location\" (in Japanese),\n                    <br>FIT2022 (the 21st Forum on Information Technology), 2022<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/TVCG.2021.3106513\">10.1109/TVCG.2021.3106513</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://onsite.gakkai-web.net/fit2022/abstract/data/html/event/event_TCS7-2.html\">Link</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u>，モニカペルスキアエルナンデス，磯山直也，内山英昭，清川清</b><br> \"下方視野を拡大したヘッドマウントディスプレイが食べやすさやクロスモーダル効果に与える影響\",\n                    <br>第27回日本VR学会大会論文集，2G-25，2022<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://conference.vrsj.org/ac2022/program/doc/2G-25.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/nDKGNIjwz0M\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Monica Perusquía-Hernández, Naoya Isoyama, Hideaki Uchiyama, and Kiyoshi Kiyokawa</b><br> \"Effects of a Head-Mounted Display with an Increased Downward Field of View on Ease of Eating and Cross-Modal Effects\" (in Japanese),\n                    <br>Proceedings of the 27th Annual Conference of the Virtual Reality Society of Japan, 2G-25, 2022<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://conference.vrsj.org/ac2022/program/doc/2G-25.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/nDKGNIjwz0M\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi</b><br> \"Head-Mounted Display with Increased Downward Field of View Improves Presence and Sense of Self-Location\",\n                    <br>Proceedings of the 20th IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR)，2021<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/TVCG.2021.3106513\">10.1109/TVCG.2021.3106513</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/T1hjYtyncRQ\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi</b><br> \"Head-Mounted Display with Increased Downward Field of View Improves Presence and Sense of Self-Location\",\n                    <br>Proceedings of the 20th IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR), 2021<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1109/TVCG.2021.3106513\">10.1109/TVCG.2021.3106513</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/T1hjYtyncRQ\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u>，磯山直也，酒田信親，清川清</b><br> \"下方視野を拡大したHMDの開発と評価\",\n                    <br>第24回一般社団法人情報処理学会シンポジウムインタラクション2020，pp.106-114，2020<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.researchgate.net/publication/340309833_xiafangshiyewokuodashitaHMDnokaifatopingsi\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=7yig_w3X0PI\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Naoya Isoyama, Nobuchika Sakata, and Kiyoshi Kiyokawa</b><br> \"Development and Evaluation of an HMD with an Increased Downward Field of View\" (in Japanese),\n                    <br>IPSJ Interaction 2020, pp.106-114, 2020<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.researchgate.net/publication/340309833_xiafangshiyewokuodashitaHMDnokaifatopingsi\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=7yig_w3X0PI\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi</b><br> \"DeepTaste: Augmented Reality Gustatory Manipulation with GAN-based Real-time Food-to-food Translation\",\n                    <br>Proceedings of the 18th IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR)，pp.328-339，2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://ieeexplore.ieee.org/abstract/document/8943779\">10.1109/ISMAR.2019.000-1</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=BJaQ5IF6iEI\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi</b><br> \"DeepTaste: Augmented Reality Gustatory Manipulation with GAN-based Real-time Food-to-food Translation\",\n                    <br>Proceedings of the 18th IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR), pp.328-339, 2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://ieeexplore.ieee.org/abstract/document/8943779\">10.1109/ISMAR.2019.000-1</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=BJaQ5IF6iEI\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b>畑田裕二，亀岡嵩幸，<u>中野萌士</u>，平尾悠太朗，鳴海拓志，大谷智子，稲見昌彦</b><br> \"ギラギラ夏祭り2019 ～融けろVR～ 成果発表セッション\",\n                    <br>第24回日本VR学会大会論文集，7C，2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://conference.vrsj.org/ac2019/program/common/doc/pdf/7C.pdf\">PDF</a></li><br>",
+        "en": "<li><b>Yuji Hatada, Takayuki Kameoka, <u>Kizashi Nakano</u>, Yutaro Hirao, Takuji Narumi, Tomoko Ohtani, and Masahiko Inami</b><br> \"GiraGira Summer Festival 2019 — Melt into VR: Results Presentation Session\" (in Japanese),\n                    <br>Proceedings of the 24th Annual Conference of the Virtual Reality Society of Japan, 7C, 2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://conference.vrsj.org/ac2019/program/common/doc/pdf/7C.pdf\">PDF</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>Kizashi Nakano</u></b><br> \"Enchanting Your Noodles: A Gustatory Manipulation Interface by Using GAN-based Real-time Food-to-Food Translation\",\n                    <br>2nd Workshop on The Future of Computing & Food，2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.ieeevr.org/2019/program/posters.html\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=BJaQ5IF6iEI\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u></b><br> \"Enchanting Your Noodles: A Gustatory Manipulation Interface by Using GAN-based Real-time Food-to-Food Translation\",\n                    <br>2nd Workshop on The Future of Computing & Food, 2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.ieeevr.org/2019/program/posters.html\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=BJaQ5IF6iEI\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u>，鳴海拓志，酒田信親，清川清</b><br> \"麺類を対象とした視覚変調による味覚操作インタフェースの有効性評価\",\n                    <br>第23回日本VR学会大会論文集，21B-1，2018<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://conference.vrsj.org/ac2018/program2018/pdf/21B-1.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=z53xW_BIaZE\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Takuji Narumi, Nobuchika Sakata, and Kiyoshi Kiyokawa</b><br> \"Effectiveness Evaluation of a Gustatory Manipulation Interface Using Visual Modulation for Noodles\" (in Japanese),\n                    <br>Proceedings of the 23rd Annual Conference of the Virtual Reality Society of Japan, 21B-1, 2018<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://conference.vrsj.org/ac2018/program2018/pdf/21B-1.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=z53xW_BIaZE\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b>宮原慎, 四宮丈生, <u>中野萌士</u>, 中川朋奈, 丸山勲</b><br> \"力学分対における動画像処理を活用した指導方法の研究\",\n                    <br> 第123回日本物理学会九州支部例会,E-19,2017<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.phys.kyushu-u.ac.jp/kpsj/kpsj123v3.pdf\">PDF</a></li><br>",
+        "en": "<li><b>Shin Miyahara, Takeo Shinomiya, <u>Kizashi Nakano</u>, Tomona Nakagawa, and Isao Maruyama</b><br> \"A Study on Teaching Methods Utilizing Video Image Processing in Mechanics\" (in Japanese),\n                    <br>The 123rd Meeting of the Kyushu Branch, the Physical Society of Japan, E-19, 2017<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.phys.kyushu-u.ac.jp/kpsj/kpsj123v3.pdf\">PDF</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u></b><br> \"拡張現実感による味覚変化の持続を目指したARamenの開発～ただ,ラーメンが食べたかった Part2～\",\n                    <br> 第6回サイエンス・インカレ研究発表会要約集, p.37 (1ページ), 2017<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/29/03/__icsFiles/afieldfile/2017/03/16/1383477_01_2.pdf\">PDF</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u></b><br> \"Development of ARamen Aiming at Persistent Gustatory Change through Augmented Reality: I Just Wanted to Eat Ramen, Part 2\" (in Japanese),\n                    <br>Abstracts of the 6th Science Inter-College, p.37, 2017<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/29/03/__icsFiles/afieldfile/2017/03/16/1383477_01_2.pdf\">PDF</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u>, 津田英知</b><br> \"拡張現実感を用いた味覚操作システムの開発　～ただ、ラーメンが食べたかった～\",\n                    <br> 第5回サイエンス・インカレ研究発表会要約集, p.45 (1ページ),　2016<br><b>【国立研究開発法人科学技術振興機構理事長賞】及び【サイエンス・インカレ審査員奨励賞】</b><br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/28/03/1368031.htm\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/28/03/__icsFiles/afieldfile/2016/03/08/1368031_01.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h28/h_28_014.pdf\">PDF</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u> and Eichi Tsuda</b><br> \"Development of a Gustatory Manipulation System Using Augmented Reality: I Just Wanted to Eat Ramen\" (in Japanese),\n                    <br>Abstracts of the 5th Science Inter-College, p.45, 2016<br><b>【JST President's Award】and【Science Inter-College Judges' Special Encouragement Award】</b><br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/28/03/1368031.htm\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/28/03/__icsFiles/afieldfile/2016/03/08/1368031_01.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h28/h_28_014.pdf\">PDF</a></li><br>"
+      }
+    ],
+    "presentations_poster": [
+      {
+        "ja": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Naoya Isoyama, Hideki Uchiyama and Kiyoshi Kiyokawa</b><br>\n                     \"Ukemochi: A Video See-through Food Overlay System for Eating Experience in the Metaverse\",\n                    <br>CHI Conference on Human Factors in Computing Systems Extended Abstracts (ACM CHI LBWs)，380, pp.1-8，2022<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1145/3491101.3519779\">10.1145/3491101.3519779</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=dFAB1Uxz3zU\">YouTube</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.itmedia.co.jp/news/articles/2205/09/news020.html\">LINK</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Naoya Isoyama, Hideki Uchiyama and Kiyoshi Kiyokawa</b><br>\n                     \"Ukemochi: A Video See-through Food Overlay System for Eating Experience in the Metaverse\",\n                    <br>CHI Conference on Human Factors in Computing Systems Extended Abstracts (ACM CHI LBWs), 380, pp.1-8, 2022<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://doi.org/10.1145/3491101.3519779\">10.1145/3491101.3519779</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=dFAB1Uxz3zU\">YouTube</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.itmedia.co.jp/news/articles/2205/09/news020.html\">LINK</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi</b><br> \"Enchanting Your Noodles: GAN-based Real-time Food-to-Food Translation and Its Impact on Vision-induced Gustatory Manipulation\",\n                    <br>Proceedings of the 26th IEEE Conference on Virtual Reality (IEEE VR)，pp.1096-1097，2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://ieeexplore.ieee.org/abstract/document/8798336\">10.1109/VR.2019.8798336</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.ieeevr.org/2019/program/posters.html\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=BJaQ5IF6iEI\">YouTube</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://shiropen.com/seamless/enchanting-your-noodles\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://nazology.net/archives/33340\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/ar-ramen-yakisoba/\">LINK</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi</b><br> \"Enchanting Your Noodles: GAN-based Real-time Food-to-Food Translation and Its Impact on Vision-induced Gustatory Manipulation\",\n                    <br>Proceedings of the 26th IEEE Conference on Virtual Reality (IEEE VR), pp.1096-1097, 2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://ieeexplore.ieee.org/abstract/document/8798336\">10.1109/VR.2019.8798336</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.ieeevr.org/2019/program/posters.html\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=BJaQ5IF6iEI\">YouTube</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://shiropen.com/seamless/enchanting-your-noodles\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://nazology.net/archives/33340\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/ar-ramen-yakisoba/\">LINK</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u>, 入江大地</b><br> \"ロボット学習教材における学習障壁のバリアフリー化～学生視点のプログラミング教育教材の開発～\",\n                    <br> 第4回サイエンス・インカレ研究発表会要約集, p.168 (1ページ), 2015<br><b>【日本産業技術教育学会 第9回技術教育創造の世界（大学生版）発明工夫コンテスト　教材開発部門　奨励賞】</b><br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h26/h_26_240.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/27/03/__icsFiles/afieldfile/2015/03/02/1355593_02_1.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mura-lab.info/contest-u/2014/result/index.html\">LINK</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u> and Daichi Irie</b><br> \"Barrier-Free Learning with Robot Education Materials: Development of Programming Education Materials from a Student's Perspective\" (in Japanese),\n                    <br>Abstracts of the 4th Science Inter-College, p.168, 2015<br><b>【Encouragement Award (Teaching Material Development Category), the 9th Invention Contest, the Japan Society of Technology Education】</b><br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h26/h_26_240.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/27/03/__icsFiles/afieldfile/2015/03/02/1355593_02_1.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.mura-lab.info/contest-u/2014/result/index.html\">LINK</a></li><br>"
+      }
+    ],
+    "presentations_demo": [
+      {
+        "ja": "<li><b><u>中野萌士</u>，モニカペルスキアエルナンデス，磯山直也，内山英昭，清川清</b><br> \"下方視野を拡大したヘッドマウントディスプレイが食べやすさやクロスモーダル効果に与える影響\",\n                    <br>第27回日本VR学会大会論文集，2G-25，2022<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://conference.vrsj.org/ac2022/program/doc/2G-25.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/nDKGNIjwz0M\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Monica Perusquía-Hernández, Naoya Isoyama, Hideaki Uchiyama, and Kiyoshi Kiyokawa</b><br> \"Effects of a Head-Mounted Display with an Increased Downward Field of View on Ease of Eating and Cross-Modal Effects\" (in Japanese),\n                    <br>Proceedings of the 27th Annual Conference of the Virtual Reality Society of Japan, 2G-25, 2022<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://conference.vrsj.org/ac2022/program/doc/2G-25.pdf\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/nDKGNIjwz0M\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>中野萌士</u>，磯山直也，酒田信親，清川清</b><br> \"下方視野を拡大したHMDの開発と評価\",\n                    <br>第24回一般社団法人情報処理学会シンポジウムインタラクション2020，pp.106-114，2020<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.interaction-ipsj.org/proceedings/2020/data/bib/INT20012.html\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=7yig_w3X0PI\">YouTube</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Naoya Isoyama, Nobuchika Sakata, and Kiyoshi Kiyokawa</b><br> \"Development and Evaluation of an HMD with an Increased Downward Field of View\" (in Japanese),\n                    <br>IPSJ Interaction 2020, pp.106-114, 2020<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.interaction-ipsj.org/proceedings/2020/data/bib/INT20012.html\">PDF</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=7yig_w3X0PI\">YouTube</a></li><br>"
+      },
+      {
+        "ja": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi</b><br> \"Enchanting Your Noodles: A Gustatory Manipulation Interface by Using GAN-based Real-time Food-to-Food Translation\",\n                    <br>Proceedings of the 26th IEEE Conference on Virtual Reality (IEEE VR)，pp.1339-1340，2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://ieeexplore.ieee.org/document/8798324\">10.1109/VR.2019.8798324</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.ieeevr.org/2019/program/demos.html\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=BJaQ5IF6iEI\">YouTube</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://shiropen.com/seamless/enchanting-your-noodles\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://nazology.net/archives/33340\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/ar-ramen-yakisoba/\">LINK</a></li><br>",
+        "en": "<li><b><u>Kizashi Nakano</u>, Daichi Horita, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai and Takuji Narumi</b><br> \"Enchanting Your Noodles: A Gustatory Manipulation Interface by Using GAN-based Real-time Food-to-Food Translation\",\n                    <br>Proceedings of the 26th IEEE Conference on Virtual Reality (IEEE VR), pp.1339-1340, 2019<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://ieeexplore.ieee.org/document/8798324\">10.1109/VR.2019.8798324</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"http://www.ieeevr.org/2019/program/demos.html\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=BJaQ5IF6iEI\">YouTube</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://shiropen.com/seamless/enchanting-your-noodles\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://nazology.net/archives/33340\">LINK</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/ar-ramen-yakisoba/\">LINK</a></li><br>"
+      }
+    ],
+    "grants": [
+      {
+        "ja": "<li><b>下方視野の視覚情報が空間知覚に及ぼす影響の解明とリダイレクション手法への応用</b><br>\n                    日本学術振興会 科学研究費助成事業 若手研究，研究代表者，2024年4月 – 2027年3月</li><br>",
+        "en": "<li><b>Elucidating the Effects of Visual Information in the Downward Field of View on Spatial Perception and Its Application to Redirection Techniques</b><br>\n                    JSPS KAKENHI Grant-in-Aid for Early-Career Scientists, Principal Investigator, Apr. 2024 – Mar. 2027</li><br>"
+      },
+      {
+        "ja": "<li><b>下方視野拡大HMDを用いた自己の外見変化による身体変容効果の向上と応用</b><br>\n                    日本学術振興会 科学研究費助成事業 研究活動スタート支援，研究代表者，2023年8月 – 2025年3月</li><br>",
+        "en": "<li><b>Improvement and Application of Body Transformation Effects through Changes in Self-Appearance Using an HMD with an Increased Downward Field of View</b><br>\n                    JSPS KAKENHI Grant-in-Aid for Research Activity Start-up, Principal Investigator, Aug. 2023 – Mar. 2025</li><br>"
+      },
+      {
+        "ja": "<li><b>VR技術を用いた食物種類の認知操作による味覚知覚メカニズムの解明</b><br>\n                    日本学術振興会 特別研究員奨励費(DC1)，研究代表者，2020年4月 – 2023年3月<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r02/dc1/r2_dc1.pdf\">LINK</a></li><br>",
+        "en": "<li><b>Elucidating the Mechanism of Taste Perception through Cognitive Manipulation of Food Types Using VR Technology</b><br>\n                    Grant-in-Aid for JSPS Fellows (DC1), Principal Investigator, Apr. 2020 – Mar. 2023<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r02/dc1/r2_dc1.pdf\">LINK</a></li><br>"
+      }
+    ],
+    "committees": [
+      {
+        "ja": "<li><b>日本バーチャルリアリティ学会　複合現実感研究委員会　委員</b><br>\n                    2025年4月 – 現在</li><br>",
+        "en": "<li><b>Committee Member, Research Committee on Mixed Reality, the Virtual Reality Society of Japan</b><br>\n                    Apr. 2025 – present</li><br>"
+      },
+      {
+        "ja": "<li><b>日本バーチャルリアリティ学会　香り・味と生体情報研究委員会　委員</b><br>\n                    2024年4月 – 現在</li><br>",
+        "en": "<li><b>Committee Member, Research Committee on Scent, Taste, and Bio-Information, the Virtual Reality Society of Japan</b><br>\n                    Apr. 2024 – present</li><br>"
+      },
+      {
+        "ja": "<li><b>バーチャル学会　運営スタッフ</b><br>\n                    2019年 – 2020年<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/virtualconference-2019/\">2019</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/virtualconference2020/\">2020</a></li><br>",
+        "en": "<li><b>Operating Staff, Virtual Conference (Virtual Gakkai)</b><br>\n                    2019 – 2020<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/virtualconference-2019/\">2019</a>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/virtualconference2020/\">2020</a></li><br>"
+      }
+    ],
+    "awards": [
+      {
+        "ja": "<li><b>VR-HSA 2026 Best Paper Award, 2026年</b><br>\n                    \"Less Is More: Unmodulated Facial Expressions Support Emotional Communication in Stylized Characters\" (Atsuya Matsumoto, Yong-Hao Hu, <u>Kizashi Nakano</u>, Takuji Narumi, Hideaki Kuzuoka)</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/vogue.cs.titech.ac.jp/VR-HSA\">LINK</a>\n                  <br>",
+        "en": "<li><b>VR-HSA 2026 Best Paper Award, 2026</b><br>\n                    \"Less Is More: Unmodulated Facial Expressions Support Emotional Communication in Stylized Characters\" (Atsuya Matsumoto, Yong-Hao Hu, <u>Kizashi Nakano</u>, Takuji Narumi, Hideaki Kuzuoka)</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/vogue.cs.titech.ac.jp/VR-HSA\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>VR-HSA 2026 Best Presentation Award, 2026年</b><br>\n                    \"Many Limbs Make Right Work: Distributing Vibrotactile Tactons for Accurate Direction\" (Takashige Suzuki, <u>Kizashi Nakano</u>, Takuji Narumi, Hideaki Kuzuoka)</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/vogue.cs.titech.ac.jp/VR-HSA\">LINK</a>\n                  <br>",
+        "en": "<li><b>VR-HSA 2026 Best Presentation Award, 2026</b><br>\n                    \"Many Limbs Make Right Work: Distributing Vibrotactile Tactons for Accurate Direction\" (Takashige Suzuki, <u>Kizashi Nakano</u>, Takuji Narumi, Hideaki Kuzuoka)</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/vogue.cs.titech.ac.jp/VR-HSA\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>ACM SAP Best Poster Award, 2025年8月</b></li>\n                  <br>",
+        "en": "<li><b>ACM SAP Best Poster Award, Aug. 2025</b></li>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>IEEE VR 2025 Best Paper Award, 2025年3月</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://ieeevr.org/2025/awards/conference-awards/\">LINK</a>\n                  <br>",
+        "en": "<li><b>IEEE VR 2025 Best Paper Award, Mar. 2025</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://ieeevr.org/2025/awards/conference-awards/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>電子情報通信学会MVE賞, 電子情報通信学会, 2024年4月</b></li>\n                  <br>",
+        "en": "<li><b>IEICE MVE Award, the Institute of Electronics, Information and Communication Engineers, Apr. 2024</b></li>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>ソーシャルICT賞（最優秀賞）賞, 第4回GCLSプレゼンコンペティション, 2023年11月</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://gcls.jp/event/competition2023/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://gcls.jp/news/competition2023-nakano/\">LINK</a>\n                  <br>",
+        "en": "<li><b>Social ICT Award (First Prize), the 4th GCLS Presentation Competition, Nov. 2023</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://gcls.jp/event/competition2023/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://gcls.jp/news/competition2023-nakano/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>第18回 IEEE 関西支部 学生研究奨励賞</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ieee-jp.org/section/kansai/award/student.html\">LINK</a>\n                  <br>",
+        "en": "<li><b>The 18th IEEE Kansai Section Student Paper Award</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ieee-jp.org/section/kansai/award/student.html\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>ISMAR 2021<b> Best Student-Authored Journal Paper</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://isw3.naist.jp/IS/PubWG/Events-ja/award20211008_nakano.html\">LINK</a>\n                  <br>",
+        "en": "<li>ISMAR 2021 <b>Best Student-Authored Journal Paper</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://isw3.naist.jp/IS/PubWG/Events-ja/award20211008_nakano.html\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>第一回XR創作大賞<b>Hi-Noguchi賞</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/xr-sousaku/%E3%83%9B%E3%83%BC%E3%83%A0\">LINK</a>\n                  <br>",
+        "en": "<li><b>Hi-Noguchi Award</b>, the 1st XR Creative Award</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/xr-sousaku/%E3%83%9B%E3%83%BC%E3%83%A0\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>令和2年度奈良先端科学技術大学院大学優秀学生</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.naist.jp/news/2020/07/007141.html\">LINK</a>\n                  <br>",
+        "en": "<li><b>NAIST Outstanding Student Award, FY2020</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.naist.jp/news/2020/07/007141.html\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>2019年度未踏IT人材発掘・育成事業<b>スーパークリエータ</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/20200528.html\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.meti.go.jp/press/2020/05/20200528003/20200528003.html?fbclid=IwAR0bY17kClhx12uKMqLZZf5rgT9VDOo6nCrr1wjZ_wfmOp3njrFC5i_WxfE\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/Teo_Gv3lFI4\">YouTube</a>\n                  <br>",
+        "en": "<li><b>Super Creator</b>, the MITOU Program 2019 (IPA: Information-technology Promotion Agency, Japan)</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/20200528.html\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.meti.go.jp/press/2020/05/20200528003/20200528003.html?fbclid=IwAR0bY17kClhx12uKMqLZZf5rgT9VDOo6nCrr1wjZ_wfmOp3njrFC5i_WxfE\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/Teo_Gv3lFI4\">YouTube</a>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>日本学術支援機構 特別研究員(DC1) 採択</b> テーマ名”VR技術を用いた食物種類の認知操作による味覚知覚メカニズムの解明”</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r02/dc1/r2_dc1.pdf\">LINK</a>\n                  <br>",
+        "en": "<li><b>Accepted as a JSPS Research Fellow (DC1)</b>: \"Elucidating the Mechanism of Taste Perception through Cognitive Manipulation of Food Types Using VR Technology\"</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r02/dc1/r2_dc1.pdf\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>2019年度未踏IT人材発掘・育成事業 採択</b> テーマ名”VR空間における食体験の構築”</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/koubokekka_index.html\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_in-2.html\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/Teo_Gv3lFI4\">YouTube</a>\n                  <br>",
+        "en": "<li><b>Accepted to the MITOU Program 2019</b>: \"Building Eating Experiences in VR Space\"</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/koubokekka_index.html\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_in-2.html\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/Teo_Gv3lFI4\">YouTube</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>福岡工業大学 平成29年度上期 <b>学長表彰</b> [情報システム工学科 FIT ポケットラボとして受賞]</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h29/h_29_287.pdf\">PDF</a>\n                  <br>",
+        "en": "<li><b>President's Award</b>, Fukuoka Institute of Technology, first half of FY2017 [awarded as FIT Pocket Lab, Department of Information and Systems Engineering]</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h29/h_29_287.pdf\">PDF</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>福岡工業大学 平成28年度上期 <b>学長表彰</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h28/h_28_190.pdf\">PDF</a>\n                  <br>",
+        "en": "<li><b>President's Award</b>, Fukuoka Institute of Technology, first half of FY2016</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h28/h_28_190.pdf\">PDF</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>第5回サイエンス・インカレ研究発表会 <b>国立研究開発法人科学技術振興機構理事長賞</b> 及び <b>サイエンス・インカレ審査員奨励賞</b> </li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h28/h_28_014.pdf\">PDF</a>\n                  <br>",
+        "en": "<li><b>JST President's Award</b> and <b>Judges' Special Encouragement Award</b>, the 5th Science Inter-College</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h28/h_28_014.pdf\">PDF</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>福岡工業大学 平成27年度上期 <b>学長表彰</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h27/h_27_176_3.pdf\">PDF</a>\n                  <br>",
+        "en": "<li><b>President's Award</b>, Fukuoka Institute of Technology, first half of FY2015</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h27/h_27_176_3.pdf\">PDF</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>日本産業技術教育学会 第9回技術教育創造の世界（大学生版）<b>発明工夫コンテスト　教材開発部門　奨励賞</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h26/h_26_240.pdf\">PDF</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.mura-lab.info/contest-u/2014/result/index.html\">LINK</a>\n                  <br>",
+        "en": "<li><b>Encouragement Award (Teaching Material Development Category)</b>, the 9th Invention Contest, the Japan Society of Technology Education</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h26/h_26_240.pdf\">PDF</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.mura-lab.info/contest-u/2014/result/index.html\">LINK</a>\n                  <br>"
+      }
+    ],
+    "others": [
+      {
+        "ja": "<li>研究内容を大阪万博で展示しました <b>見た目で味が変わる!?ARで味わう不思議フード</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://keihannaexpo.org/hp/\">LINK</a>\n                  <br>",
+        "en": "<li>Exhibited research at Expo 2025 Osaka, Kansai: <b>\"Mysterious AR Food Whose Taste Changes with Its Appearance\"</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://keihannaexpo.org/hp/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>研究内容が雑誌で紹介されました <b>OplusE 2022年11・12月号（第488号）研究室探訪vol.30 奈良先端科学技術大学院大学 サイバネティクス・リアリティ工学研究室</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.adcom-media.co.jp/laboratory/2022/11/25/104941/\">LINK</a>\n                  <br>",
+        "en": "<li>Research featured in a magazine: <b>O plus E, Nov./Dec. 2022 issue (No.488), Laboratory Visit vol.30, Cybernetics and Reality Engineering Lab, NAIST</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.adcom-media.co.jp/laboratory/2022/11/25/104941/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>研究内容がテレビ放送されました <b>ヒューマニエンス 40億年のたくらみ 2022/08/02放送</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.nhk.jp/p/ts/X4VK5R2LR1/episode/te/1ZV9JZPK92/\">LINK</a>\n                  <br>",
+        "en": "<li>Research featured on TV: <b>NHK \"Humaniense,\" broadcast on Aug. 2, 2022</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.nhk.jp/p/ts/X4VK5R2LR1/episode/te/1ZV9JZPK92/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>DeepTasteとUkemochiが<b>Webメディアに取り上げられました</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://xtech.nikkei.com/atcl/nxt/column/18/02118/071200004\">日経クロステック／日経デジタルヘルス</a>\n                  <br>",
+        "en": "<li>DeepTaste and Ukemochi were <b>featured in web media</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://xtech.nikkei.com/atcl/nxt/column/18/02118/071200004\">Nikkei xTECH / Nikkei Digital Health</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>Benesse社のチャレンジ小学五年生の6月号に研究が掲載されました<b>未来発見BOOK6月号 p.9 2022</b></li>\n                  <br>",
+        "en": "<li>Research featured in Benesse's \"Challenge 5th Grader\": <b>Mirai Hakken BOOK, June issue, p.9, 2022</b></li>\n                  <br>"
+      },
+      {
+        "ja": "<li>日本バーチャル学会の会議参加報告にCHI2022の報告を行いました<b>VRSJ Newsletter–2022年5月号–(Vol.27, No.5)</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vrsj.org/report/11836/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vrsj.org/newsletter/10866/\">LINK</a>\n                  <br>",
+        "en": "<li>Reported on CHI 2022 in the VRSJ conference report: <b>VRSJ Newsletter, May 2022 (Vol.27, No.5)</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vrsj.org/report/11836/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vrsj.org/newsletter/10866/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>Ukemochiが<b>Webメディアに取り上げられました</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.itmedia.co.jp/news/articles/2205/09/news020.html\">Seamless</a>\n                  <br>",
+        "en": "<li>Ukemochi was <b>featured in web media</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.itmedia.co.jp/news/articles/2205/09/news020.html\">ITmedia</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>バーチャル学会2021のオーガナイズドセッションでVR × 食について発表しました<b>バーチャル学会2021</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/virtualconference-2021\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/Vc0-ur0r53k\">YouTube</a>",
+        "en": "<li>Presented on VR × Food at an organized session of <b>Virtual Conference 2021</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/virtualconference-2021\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://youtu.be/Vc0-ur0r53k\">YouTube</a>"
+      },
+      {
+        "ja": "<li>東京大学ドクトーラルシンポジウムで研究内容を発表しました<b>視覚変調による味覚操作に関する研究</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vr.u-tokyo.ac.jp/doctoral_symposium_files/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vr.u-tokyo.ac.jp/wp-content/uploads/2021/07/nakano_VRcenter_2021symp.pdf\">PDF</a>",
+        "en": "<li>Presented at the UTokyo Doctoral Symposium: <b>\"Research on Gustatory Manipulation by Visual Modulation\"</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vr.u-tokyo.ac.jp/doctoral_symposium_files/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vr.u-tokyo.ac.jp/wp-content/uploads/2021/07/nakano_VRcenter_2021symp.pdf\">PDF</a>"
+      },
+      {
+        "ja": "<li>Benesse社のチャレンジ小学五年生の6月号に研究が掲載されました<b>未来発見BOOK6月号 p.9 2021</b></li>\n                  <br>",
+        "en": "<li>Research featured in Benesse's \"Challenge 5th Grader\": <b>Mirai Hakken BOOK, June issue, p.9, 2021</b></li>\n                  <br>"
+      },
+      {
+        "ja": "<li>KUMA EXHIBITION 2021にて作品を展示しました<b>Observable Virtually</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://kuma-foundation.org/exhibition2021/\">LINK</a>",
+        "en": "<li>Exhibited a work at KUMA EXHIBITION 2021: <b>\"Observable Virtually\"</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://kuma-foundation.org/exhibition2021/\">LINK</a>"
+      },
+      {
+        "ja": "<li>研究内容がテレビ放送されました <b>読売テレビ「ほんわかテレビ」 2020/12/18放送</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ytv.co.jp/honwaka/contents/20201218.html\">LINK</a>",
+        "en": "<li>Research featured on TV: <b>Yomiuri TV \"Honwaka TV,\" broadcast on Dec. 18, 2020</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ytv.co.jp/honwaka/contents/20201218.html\">LINK</a>"
+      },
+      {
+        "ja": "<li>光産業技術振興協会の国際会議速報にISMAR2020の報告を行いました<b>国際会議速報 2020-No.16 IEEE ISMAR 2020ショート速報</b></li>\n                  <br>",
+        "en": "<li>Reported on ISMAR 2020 in the OITDA international conference bulletin: <b>International Conference Report 2020-No.16, IEEE ISMAR 2020</b></li>\n                  <br>"
+      },
+      {
+        "ja": "<li>技育展（ぎいくてん）に採択され登壇発表を行いました． <b>無駄開発：Ukemochi</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://docs.google.com/document/d/1FQlAszGRyBlUsI81ke19OHxImmUyK-IsMMTeijzrV2c\">LINK</a>\n                  <br>",
+        "en": "<li>Selected for and presented at Geekten: <b>\"Muda Kaihatsu: Ukemochi\"</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://docs.google.com/document/d/1FQlAszGRyBlUsI81ke19OHxImmUyK-IsMMTeijzrV2c\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>サヨナラVR元年カウントダウンイベント！にて登壇発表を行いました．<b>#VR元年を終わらせる会</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://cluster.mu/e/04977e06-67fc-4d37-9e52-96e5cea303cb\">LINK</a>\n                  <br>",
+        "en": "<li>Presented at the countdown event \"Sayonara, the First Year of VR!\": <b>#Ending the First Year of VR</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://cluster.mu/e/04977e06-67fc-4d37-9e52-96e5cea303cb\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>クマ財団のインタビューが掲載されました <b>現実を超えるものを創りたい</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://kuma-foundation.org/news/3194/\">LINK</a>\n                  <br>",
+        "en": "<li>Interview published by the KUMA Foundation: <b>\"I Want to Create Something Beyond Reality\"</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://kuma-foundation.org/news/3194/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>VR学会若手懇親会を運営しました <b>ギラギラ夏祭り2020 〜ゆるふわ交流会〜</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://connpass.com/event/187508/\">LINK</a>\n                  <br>",
+        "en": "<li>Organized the VRSJ young researchers' social event: <b>GiraGira Summer Festival 2020</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://connpass.com/event/187508/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>クマ財団 クリエータ奨学金に採択されました <b>クマ財団 四期生</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://kuma-foundation.org/student/kizashi-nakano/\">LINK</a>\n                  <br>",
+        "en": "<li>Selected for the KUMA Foundation creator scholarship: <b>KUMA Foundation, 4th cohort</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://kuma-foundation.org/student/kizashi-nakano/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>Benesse社のチャレンジ小学五年生の6月号に研究が掲載されました<b>未来発見BOOK6月号 p.9 2020</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/KizashiNakano/posts/1607469052757577\">LINK</a>\n                  <br>",
+        "en": "<li>Research featured in Benesse's \"Challenge 5th Grader\": <b>Mirai Hakken BOOK, June issue, p.9, 2020</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/KizashiNakano/posts/1607469052757577\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>令和2年度奈良先端科学技術大学院大学優秀学生に選ばれました<b>令和2年度奈良先端科学技術大学院大学優秀学生</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.naist.jp/news/2020/07/007141.html\">LINK</a>",
+        "en": "<li>Selected as a <b>NAIST Outstanding Student, FY2020</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.naist.jp/news/2020/07/007141.html\">LINK</a>"
+      },
+      {
+        "ja": "<li>記事のアーカイブを公開しました <b>サイエンス・インカレに参加したOBOGからのメッセージ | 第9回サイエンス・インカレ</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://science-i.mext.go.jp/message/03.html\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"./Science_OBOG.html\">LINK</a>\n                  <br>",
+        "en": "<li>Published an article archive: <b>\"Messages from Science Inter-College Alumni,\" the 9th Science Inter-College</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://science-i.mext.go.jp/message/03.html\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"./Science_OBOG.html\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>インタビューが冊子になりました <b>サイエンス・インカレ過去出場者にインタビュー</b></li>\n                  <br>",
+        "en": "<li>Interview published in a booklet: <b>\"Interviews with Past Science Inter-College Participants\"</b></li>\n                  <br>"
+      },
+      {
+        "ja": "<li>研究内容がテレビ放送されました <b>ビーバップハイヒール 2020/03/26放送</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.asahi.co.jp/be-bop/\">LINK</a>\n                  <br>",
+        "en": "<li>Research featured on TV: <b>ABC \"Be-Bop High Heel,\" broadcast on Mar. 26, 2020</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.asahi.co.jp/be-bop/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>IPA未踏事業2019</b>の最終成果発表を行いました</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_in-2.html\">LINK</a>\n                  <br>",
+        "en": "<li>Gave the final results presentation of the <b>IPA MITOU Program 2019</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_in-2.html\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>研究内容がテレビ放送されました <b>所さん！大変ですよ 2020/02/06放送</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.nhk.jp/p/taihentokoro/ts/5RG1V58XZQ/\">LINK</a>\n                  <br>",
+        "en": "<li>Research featured on TV: <b>NHK \"Tokoro-san! Taihen desu yo,\" broadcast on Feb. 6, 2020</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.nhk.jp/p/taihentokoro/ts/5RG1V58XZQ/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li><b>サイエンスカフェ</b>で講演しました</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.scj.go.jp/ja/event/pdf2/200123.pdf\">PDF</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.scj.go.jp/ja/event/pdf2/h-200115.pdf\">PDF</a>\n                  <br>",
+        "en": "<li>Lectured at a <b>Science Café</b> (Science Council of Japan)</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.scj.go.jp/ja/event/pdf2/200123.pdf\">PDF</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.scj.go.jp/ja/event/pdf2/h-200115.pdf\">PDF</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>VR空間内で行われたバーチャル学会2019<b>運営スタッフ(HN:signs)</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/virtualconference-2019/home\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://connpass.com/event/151384/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/virtual-society-2019/\">MoguraVR</a>\n                  <br>",
+        "en": "<li><b>Operating staff (HN: signs)</b> of Virtual Conference 2019 held in VR</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://sites.google.com/view/virtualconference-2019/home\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://connpass.com/event/151384/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/virtual-society-2019/\">MoguraVR</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>日本バーチャル学会の会議参加報告にISMAR2019の報告を行いました<b>VRSJ Newsletter–2019年12月号–(Vol.24, No.12)</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vrsj.org/report/10862/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vrsj.org/newsletter/10866/\">LINK</a>\n                  <br>",
+        "en": "<li>Reported on ISMAR 2019 in the VRSJ conference report: <b>VRSJ Newsletter, Dec. 2019 (Vol.24, No.12)</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vrsj.org/report/10862/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://vrsj.org/newsletter/10866/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>マンバ通信にてVR空間での食事について鳴海先生と対談しました<b>第１回　VRでドラゴンは食べられるようになるか？『ダンジョン飯』</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://magazine.manba.co.jp/2019/11/22/vrmanga-dungeonmeshi/\">LINK</a>\n                  <br>",
+        "en": "<li>Dialogue with Prof. Narumi about eating in VR on Manba Tsushin: <b>\"Can We Eat Dragons in VR? — 'Delicious in Dungeon'\"</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://magazine.manba.co.jp/2019/11/22/vrmanga-dungeonmeshi/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>イノベーション・ジャパン2019に採択され，出展しました<b>そうめんをラーメンに変化させる味覚操作ARシステム</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ij2019.jp/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.jst.go.jp/tt/fair/doc/ij2019_seeds.pdf\">PDF</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ij2019.jp/pdf/jst_exList.pdf\">PDF</a>\n                  <br>",
+        "en": "<li>Selected for and exhibited at Innovation Japan 2019: <b>\"A Gustatory Manipulation AR System that Changes Somen into Ramen\"</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ij2019.jp/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.jst.go.jp/tt/fair/doc/ij2019_seeds.pdf\">PDF</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ij2019.jp/pdf/jst_exList.pdf\">PDF</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>IPA未踏事業2019に<b>「VR空間における食体験の構築」</b>というテーマで採択されました</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_in-2.html\">LINK</a>\n                  <br>",
+        "en": "<li>Accepted to the IPA MITOU Program 2019 with the theme <b>\"Building Eating Experiences in VR Space\"</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_in-2.html\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>研究内容がテレビ放送されました <b>NTV news zero 2019/05/24放送</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/newszero/posts/2751982091540586\">LINK</a>\n                  <br>",
+        "en": "<li>Research featured on TV: <b>NTV \"news zero,\" broadcast on May 24, 2019</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/newszero/posts/2751982091540586\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>研究内容がラジオ放送されました <b>J-WAVE STEP ONE 2019/04/03放送</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://twitter.com/stepone813/status/1113253365197066242\">LINK</a>\n                  <br>",
+        "en": "<li>Research featured on radio: <b>J-WAVE \"STEP ONE,\" broadcast on Apr. 3, 2019</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://twitter.com/stepone813/status/1113253365197066242\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>Enchanting Your Noodlesが<b>多数のメディアに取り上げられました</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://shiropen.com/seamless/enchanting-your-noodles\">Seamless</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/ar-ramen-yakisoba/\">MoguraVR</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://nazology.net/archives/33340\">ナゾロジー</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://b.hatena.ne.jp/entry/s/shiropen.com/seamless/enchanting-your-noodles\">はてなブックマーク</a>\n                  他多数のまとめサイト\n                  <br>",
+        "en": "<li>Enchanting Your Noodles was <b>featured in many media outlets</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://shiropen.com/seamless/enchanting-your-noodles\">Seamless</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/ar-ramen-yakisoba/\">MoguraVR</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://nazology.net/archives/33340\">Nazology</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://b.hatena.ne.jp/entry/s/shiropen.com/seamless/enchanting-your-noodles\">Hatena Bookmark</a>\n                  and many other aggregator sites\n                  <br>"
+      },
+      {
+        "ja": "<li>第8回サイエンス・インカレ　<b>サイエンス・インカレ・アンバサダー賞審査長として参加</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://science-i.mext.go.jp/about.php\">LINK</a>\n                  <br>",
+        "en": "<li>Participated in the 8th Science Inter-College as <b>chief judge of the Science Inter-College Ambassador Award</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://science-i.mext.go.jp/about.php\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>CARELabオープンキャンパス2018年11月「俺は大腸菌で行く（大腸菌VR）」<b>開発責任者</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=LHB2-ssdj9Q\">YouTube</a>\n                  <br>",
+        "en": "<li><b>Development lead</b> of \"E. coli VR\" at the CARE Lab Open Campus, Nov. 2018</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=LHB2-ssdj9Q\">YouTube</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>SINAPS関東支部第6回Jamboree(カフェアカデミー)<b>招待講演</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.sinaps.or.jp/report/kanto-jamboree6/\">LINK</a>\n                  <br>",
+        "en": "<li><b>Invited talk</b> at the 6th SINAPS Kanto Jamboree (Café Academy)</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.sinaps.or.jp/report/kanto-jamboree6/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>VSMeetup〜夏を終わらせようオンラインハッカソン〜<b>参加</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=5u1_ZnOpHPg\">YouTube</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=AedtGExaLUc\">YouTube</a>\n                  <br>",
+        "en": "<li><b>Participated</b> in the VSMeetup online hackathon \"Let's End the Summer\"</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=5u1_ZnOpHPg\">YouTube</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=AedtGExaLUc\">YouTube</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>VRうなぎを食べてみたが<b>多数のメディアに取り上げられました</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://videotopics.yahoo.co.jp/video/vtps/193959\">YAHOO!Japan</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://originalnews.nico/117207\">ニコニコニュース</a>\n                  <br>",
+        "en": "<li>\"Eating a VR Eel\" was <b>featured in many media outlets</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://videotopics.yahoo.co.jp/video/vtps/193959\">YAHOO!Japan</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://originalnews.nico/117207\">Niconico News</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>VRうなぎを食べてみた<b>ニコニコ技術部カテゴリ1位</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.nicovideo.jp/watch/sm33557156\">niconico</a>\n                  <br>",
+        "en": "<li>\"Eating a VR Eel\" <b>ranked 1st in the Niconico Tech category</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.nicovideo.jp/watch/sm33557156\">niconico</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>NT金沢2018 <b>研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://nt-kanazawa.org/\">LINK</a>\n                  <br>",
+        "en": "<li>NT Kanazawa 2018 <b>research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://nt-kanazawa.org/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>VSMeetup 〜SAO実現に向けてみんなでパネルディスカッション〜 <b>パネリストとして参加</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=5u1_ZnOpHPg\">YouTube</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=AedtGExaLUc\">YouTube</a>\n                  <br>",
+        "en": "<li>Participated as a <b>panelist</b> in VSMeetup \"Panel Discussion toward Realizing SAO\"</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=5u1_ZnOpHPg\">YouTube</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=AedtGExaLUc\">YouTube</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>第1回SINAPS九州Jamboree　<b>SINAPS九州支部長として主催</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h29/h_29_308.pdf\">PDF</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=nl7Ofmcps8w\">YouTube</a>\n                  <br>",
+        "en": "<li>Organized the 1st SINAPS Kyushu Jamboree <b>as head of the SINAPS Kyushu branch</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h29/h_29_308.pdf\">PDF</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=nl7Ofmcps8w\">YouTube</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>第7回サイエンス・インカレ　<b>サイエンス・インカレ・アンバサダーとして参加</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/30/03/1401925.htm\">LINK</a>\n                  <br>",
+        "en": "<li>Participated in the 7th Science Inter-College as a <b>Science Inter-College Ambassador</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.mext.go.jp/b_menu/houdou/30/03/1401925.htm\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>プラスチックの恋人（文庫版）にて<b>ARラーメン紹介</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.hayakawa-online.co.jp/shopdetail/000000013736/\">LINK</a>\n                  <br>",
+        "en": "<li><b>ARamen introduced</b> in the paperback edition of \"Plastic Lovers\"</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.hayakawa-online.co.jp/shopdetail/000000013736/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>ARamenが<b>話題になりました</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://togetter.com/li/1046050\">togetter</a>\n                  <br>",
+        "en": "<li>ARamen <b>became a hot topic</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://togetter.com/li/1046050\">togetter</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>北九州ポップカルチャーフェスティバル2017withあるあるCity <b>研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.ktqpopfes.jp/\">LINK</a>\n                  <br>",
+        "en": "<li>Kitakyushu Pop Culture Festival 2017 with Aruaru City <b>research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.ktqpopfes.jp/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>大八耐2017　<b>審査員賞（グランディング株式会社 二木さん　作品名：ストレス値を使用したVRゲーム）</b>　</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://daihachitai.npo-spice.com/2017/10/27/%E5%A4%A7%E5%85%AB%E8%80%902017%E8%A1%A8%E5%BD%B0%E4%BD%9C%E5%93%81%E7%B4%B9%E4%BB%8B/\">LINK</a>\n                  <br>",
+        "en": "<li>Daihachitai 2017 <b>Judge's Award (from Mr. Futatsugi, Grounding Inc.; work: a VR game using stress values)</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://daihachitai.npo-spice.com/2017/10/27/%E5%A4%A7%E5%85%AB%E8%80%902017%E8%A1%A8%E5%BD%B0%E4%BD%9C%E5%93%81%E7%B4%B9%E4%BB%8B/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>第4回SINAPS関東Jamboree <b>ポスター発表・研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/sinaps.scienceintercollege/posts/1952417774979594\">LINK</a>\n                  <br>",
+        "en": "<li>The 4th SINAPS Kanto Jamboree <b>poster presentation and research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/sinaps.scienceintercollege/posts/1952417774979594\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>S-Fマガジン2017年2月号 プラスチックの恋人にて<b>ARラーメン紹介</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.hayakawa-online.co.jp/shopdetail/000000013419/shurui_71_SFM/page1/order/\">LINK</a>\n                  <br>",
+        "en": "<li><b>ARamen introduced</b> in \"Plastic Lovers,\" S-F Magazine, Feb. 2017 issue</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.hayakawa-online.co.jp/shopdetail/000000013419/shurui_71_SFM/page1/order/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>VR GameJam in Japan 2016 Autumn　<b>福岡会場優勝</b>（チーム名：湯けむりメガネ　作品名：EYESIGHT 0.01）</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/vrgj-2016-autumn/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://connpass.com/event/43460/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.slideshare.net/KizashiNAKANO/eyesite001-69548453\">LINK</a>\n                  <br>",
+        "en": "<li>VR GameJam in Japan 2016 Autumn: <b>won the Fukuoka venue</b> (Team: Yukemuri Megane; Work: EYESIGHT 0.01)</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.moguravr.com/vrgj-2016-autumn/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://connpass.com/event/43460/\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.slideshare.net/KizashiNAKANO/eyesite001-69548453\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>北九州ポップカルチャーフェスティバル2016 with あるあるCity <b>研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.ktqpopfes.jp/2016/\">LINK</a>\n                  <br>",
+        "en": "<li>Kitakyushu Pop Culture Festival 2016 with Aruaru City <b>research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.ktqpopfes.jp/2016/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>つくると！２ <b>研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://vol2.tsukuruto.net/\">LINK</a>\n                  <br>",
+        "en": "<li>Tsukuruto! 2 <b>research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://vol2.tsukuruto.net/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>第2回SINAPS関東Jamboree　<b>パネリストとして参加</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/sinaps.scienceintercollege/posts/1795100907377949\">LINK</a>\n                  <br>",
+        "en": "<li>Participated as a <b>panelist</b> in the 2nd SINAPS Kanto Jamboree</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/sinaps.scienceintercollege/posts/1795100907377949\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>FIT力「人」を伸ばす！福工大 2016 <b>インタビュー</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/message/archives/141\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=nl7Ofmcps8w\">YouTube</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/juken/fitbook/2017_fitbook.pdf\">PDF</a>\n                  <br>",
+        "en": "<li><b>Interviewed</b> for FIT's PR \"FIT-ryoku: Developing People!\" 2016</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/message/archives/141\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.youtube.com/watch?v=nl7Ofmcps8w\">YouTube</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/juken/fitbook/2017_fitbook.pdf\">PDF</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>第5回サイエンス・インカレ優秀者<b>アメリカ研修参加</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/scienceintercollege/photos/a.451973124843962.95439.445905828784025/1193131890728078/?type=3&theater\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h28/h_28_185.pdf\">PDF</a>\n                  <br>",
+        "en": "<li><b>Participated in the US training program</b> for outstanding participants of the 5th Science Inter-College</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/scienceintercollege/photos/a.451973124843962.95439.445905828784025/1193131890728078/?type=3&theater\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/files/documents/daigaku/kouhou/campusmail/h28/h_28_185.pdf\">PDF</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>福岡工業高等学校　120周年記念文化祭 <b>口頭発表・研究展示</b></li>\n                  <br>",
+        "en": "<li>Fukuoka Technical High School 120th Anniversary Festival <b>oral presentation and research exhibit</b></li>\n                  <br>"
+      },
+      {
+        "ja": "<li>第1回SINAPS関東Jamboree <b>ポスター発表・研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/fanclub2016/posts/237914729889542\">LINK</a>\n                  <br>",
+        "en": "<li>The 1st SINAPS Kanto Jamboree <b>poster presentation and research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/fanclub2016/posts/237914729889542\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>NT京都2016 <b>研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://wiki.nicotech.jp/nico_tech/index.php?NT%E4%BA%AC%E9%83%BD2016\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.nicovideo.jp/watch/sm28758222\">niconico</a>\n                  <br>",
+        "en": "<li>NT Kyoto 2016 <b>research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://wiki.nicotech.jp/nico_tech/index.php?NT%E4%BA%AC%E9%83%BD2016\">LINK</a>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.nicovideo.jp/watch/sm28758222\">niconico</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>第1回SINAPS関西Jamboree <b>口頭発表・研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/fanclub2016/posts/228268304187518\">LINK</a>\n                  <br>",
+        "en": "<li>The 1st SINAPS Kansai Jamboree <b>oral presentation and research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.facebook.com/fanclub2016/posts/228268304187518\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>つくると！ <b>研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://vol1.tsukuruto.net/\">LINK</a>\n                  <br>",
+        "en": "<li>Tsukuruto! <b>research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://vol1.tsukuruto.net/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>北九州MONOCAFE 2015 <b>研究展示</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.walkerplus.com/event/ar1040e123967/\">LINK</a>\n                  <br>",
+        "en": "<li>Kitakyushu MONOCAFE 2015 <b>research exhibit</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.walkerplus.com/event/ar1040e123967/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>福岡工業大学附属 城東高等学校　<b>出前授業</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/news/archives/1435\">LINK</a>\n                  <br>",
+        "en": "<li><b>Guest lecture</b> at Joto High School (attached to Fukuoka Institute of Technology)</li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"http://www.fit.ac.jp/news/archives/1435\">LINK</a>\n                  <br>"
+      }
+    ]
+  }
+}

@@ -12,6 +12,7 @@
   <title>中野 萌士(NAKANO Kizashi)</title>
 
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <script src="/js/theme.js"></script>
 
   <!-- OGP / Twitter Card -->
   <meta property="og:title" content="中野 萌士 (Kizashi Nakano)">
@@ -20,6 +21,32 @@
   <meta property="og:url" content="https://signs0302.github.io/">
   <meta property="og:image" content="https://signs0302.github.io/img/ARamen15.jpg">
   <meta name="twitter:card" content="summary_large_image">
+
+  <!-- 構造化データ (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Kizashi Nakano",
+    "alternateName": "中野 萌士",
+    "jobTitle": "Project Assistant Professor",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "The University of Tokyo",
+      "url": "https://www.u-tokyo.ac.jp/"
+    },
+    "url": "https://signs0302.github.io/",
+    "image": "https://signs0302.github.io/img/Kizashi_Nakano.jpg",
+    "email": "kizashi@cyber.t.u-tokyo.ac.jp",
+    "sameAs": [
+      "https://researchmap.jp/kizashi",
+      "https://orcid.org/0000-0003-2038-1464",
+      "https://scholar.google.com/citations?user=fLYpDKUAAAAJ",
+      "https://www.researchgate.net/profile/Kizashi-Nakano"
+    ],
+    "knowsAbout": ["Virtual Reality", "Augmented Reality", "Gustatory Manipulation", "Cross-modal Perception", "Head-Mounted Display", "Avatar"]
+  }
+  </script>
 
 
   <!-- Latest compiled and minified CSS -->
@@ -62,6 +89,9 @@
               <span class="oi oi-envelope-closed"></span> Mail
               </button>
             </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" onclick="return toggleTheme();" title="Dark mode"><span class="oi oi-moon"></span></a>
           </li>
         </ul>
 
@@ -109,19 +139,19 @@
                   <div class="row">
                     <div class="col-md-3 col-6">
                       <a href="./projects/downward-fov-hmd.html">
-                        <img src="https://img.youtube.com/vi/T1hjYtyncRQ/hqdefault.jpg" alt="HMD with Increased Downward FoV" class="img-fluid rounded box-shadow" style="width:100%;aspect-ratio:4/3;object-fit:cover;">
+                        <img loading="lazy" src="https://img.youtube.com/vi/T1hjYtyncRQ/hqdefault.jpg" alt="HMD with Increased Downward FoV" class="img-fluid rounded box-shadow" style="width:100%;aspect-ratio:4/3;object-fit:cover;">
                       </a>
                       <p class="text-center"><b>HMD with Increased Downward FoV</b></p>
                     </div>
                     <div class="col-md-3 col-6">
                       <a href="./projects/deeptaste.html">
-                        <img src="https://img.youtube.com/vi/BJaQ5IF6iEI/hqdefault.jpg" alt="DeepTaste" class="img-fluid rounded box-shadow" style="width:100%;aspect-ratio:4/3;object-fit:cover;">
+                        <img loading="lazy" src="https://img.youtube.com/vi/BJaQ5IF6iEI/hqdefault.jpg" alt="DeepTaste" class="img-fluid rounded box-shadow" style="width:100%;aspect-ratio:4/3;object-fit:cover;">
                       </a>
                       <p class="text-center"><b>DeepTaste</b></p>
                     </div>
                     <div class="col-md-3 col-6">
                       <a href="./projects/ukemochi.html">
-                        <img src="https://img.youtube.com/vi/dFAB1Uxz3zU/hqdefault.jpg" alt="Ukemochi" class="img-fluid rounded box-shadow" style="width:100%;aspect-ratio:4/3;object-fit:cover;">
+                        <img loading="lazy" src="https://img.youtube.com/vi/dFAB1Uxz3zU/hqdefault.jpg" alt="Ukemochi" class="img-fluid rounded box-shadow" style="width:100%;aspect-ratio:4/3;object-fit:cover;">
                       </a>
                       <p class="text-center"><b>Ukemochi</b></p>
                     </div>

@@ -1,3 +1,11 @@
+/* ダークモード時の背景調整（.bg-lightはBS5でも明色固定のため上書き） */
+[data-bs-theme="dark"] .bg-light {
+  background-color: #1a1d20 !important;
+}
+[data-bs-theme="dark"] body {
+  background-color: #121416;
+}
+
 /* Bootstrap 5はリンクに常時下線が付くため、BS4の挙動（ホバー時のみ）に戻す */
 a {
   text-decoration: none;

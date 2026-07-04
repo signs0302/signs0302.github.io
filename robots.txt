@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /old/
+Sitemap: https://signs0302.github.io/sitemap.xml
