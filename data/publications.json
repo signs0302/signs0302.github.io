@@ -90,30 +90,6 @@
       ]
     },
     {
-      "id": "j-jvrsj2024-taste",
-      "section": "journal",
-      "year": 2024,
-      "in_japanese": true,
-      "authors": {
-        "ja": "<u>中野 萌士</u>",
-        "en": "<u>Kizashi Nakano</u>"
-      },
-      "title": {
-        "ja": "視覚情報と味覚",
-        "en": "Visual Information and Taste"
-      },
-      "venue": {
-        "ja": "日本バーチャルリアリティ学会誌 29巻1号，pp.36-38，2024",
-        "en": "Journal of the Virtual Reality Society of Japan, Vol.29, No.1, pp.36-38, 2024"
-      },
-      "links": [
-        {
-          "label": "10.18974/jvrsj.29.1_36",
-          "href": "https://doi.org/10.18974/jvrsj.29.1_36"
-        }
-      ]
-    },
-    {
       "id": "j-tvcg2021-fov",
       "section": "journal",
       "year": 2021,
@@ -587,6 +563,30 @@
         {
           "label": "10.18974/tvrsj.29.3_99",
           "href": "https://doi.org/10.18974/tvrsj.29.3_99"
+        }
+      ]
+    },
+    {
+      "id": "d-jvrsj2024-taste",
+      "section": "domestic",
+      "year": 2024,
+      "in_japanese": true,
+      "authors": {
+        "ja": "<u>中野 萌士</u>",
+        "en": "<u>Kizashi Nakano</u>"
+      },
+      "title": {
+        "ja": "視覚情報と味覚",
+        "en": "Visual Information and Taste"
+      },
+      "venue": {
+        "ja": "日本バーチャルリアリティ学会誌 29巻1号，pp.36-38，2024",
+        "en": "Journal of the Virtual Reality Society of Japan, Vol.29, No.1, pp.36-38, 2024"
+      },
+      "links": [
+        {
+          "label": "10.18974/jvrsj.29.1_36",
+          "href": "https://doi.org/10.18974/jvrsj.29.1_36"
         }
       ]
     },
