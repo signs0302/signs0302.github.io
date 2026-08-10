@@ -591,6 +591,25 @@
       ]
     },
     {
+      "id": "d-miru2026-deeptastedm",
+      "section": "domestic",
+      "year": 2026,
+      "in_japanese": true,
+      "authors": {
+        "ja": "唐澤香梨菜，<u>中野萌士</u>，柳井啓司",
+        "en": "Karina Karasawa, <u>Kizashi Nakano</u>, and Keiji Yanai"
+      },
+      "title": {
+        "ja": "DeepTasteDM: 拡散モデルを用いたリアルタイム食事変換ARシステム",
+        "en": "DeepTasteDM: Real-Time Food-to-Food Translation AR System Using a Diffusion Model"
+      },
+      "venue": {
+        "ja": "第29回 画像の認識・理解シンポジウム（MIRU2026），デモ発表 DS-06，2026年8月",
+        "en": "The 29th Meeting on Image Recognition and Understanding (MIRU 2026), Demo DS-06, Aug. 2026"
+      },
+      "links": []
+    },
+    {
       "id": "d-wiss2025-ambient",
       "section": "domestic",
       "year": 2025,
