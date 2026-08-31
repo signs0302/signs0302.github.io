@@ -2,6 +2,26 @@
   "_readme": "論文データの一元管理ファイル。cv_JP.html / cv_ENG.html / projects/*.html はこのファイルをJS(js/publications.js)で読み込んで表示する。新しい論文はこのファイルに1エントリ追加するだけでよい。section: journal | international | domestic | patent。表示順はこの配列の順（各セクション内で新しい順に並べる）。日本語論文は in_japanese: true を付けると英語CVで (in Japanese) が付く。",
   "publications": [
     {
+      "id": "j-frontiers2026-lookingdown",
+      "section": "journal",
+      "year": 2026,
+      "authors": {
+        "en": "<u>Kizashi Nakano</u>, Monica Perusquía-Hernández, Naoya Isoyama, Hideaki Uchiyama, and Kiyoshi Kiyokawa"
+      },
+      "title": {
+        "en": "Looking Down With the Head Up: Improving Walking in VR and VST-AR with Increased Downward Field of View"
+      },
+      "venue": {
+        "en": "Frontiers in Virtual Reality, Vol.7, 1831582, 2026"
+      },
+      "links": [
+        {
+          "label": "10.3389/frvir.2026.1831582",
+          "href": "https://doi.org/10.3389/frvir.2026.1831582"
+        }
+      ]
+    },
+    {
       "id": "j-frontiers2026-coordinate",
       "section": "journal",
       "year": 2026,
@@ -12,7 +32,7 @@
         "en": "You got to coordinate, stably: 3D bimanual guidance with haptic and auditory cues"
       },
       "venue": {
-        "en": "Frontiers in Virtual Reality, Vol.7, 2026"
+        "en": "Frontiers in Virtual Reality, Vol.7, 1757963, 2026"
       },
       "links": [
         {
@@ -52,7 +72,7 @@
         "en": "Two limbs are better than one: multi-limb tactons for precise hand navigation"
       },
       "venue": {
-        "en": "Frontiers in Virtual Reality, Vol.7, 2026"
+        "en": "Frontiers in Virtual Reality, Vol.7, 1757871, 2026"
       },
       "links": [
         {
