@@ -17,6 +17,18 @@
     ],
     "committees": [
       {
+        "ja": "<li><b>IEEE VR 2027　International Program Committee (IPC) 委員</b><br>\n                    2026年8月 – 現在</li><br>",
+        "en": "<li><b>International Program Committee (IPC) Member, IEEE VR 2027</b><br>\n                    Aug. 2026 – present</li><br>"
+      },
+      {
+        "ja": "<li><b>IEEE ISMAR 2026　International Program Committee (IPC) 委員</b><br>\n                    2026年</li><br>",
+        "en": "<li><b>International Program Committee (IPC) Member, IEEE ISMAR 2026</b><br>\n                    2026</li><br>"
+      },
+      {
+        "ja": "<li><b>IEEE VR 2026　International Program Committee (IPC) 委員</b><br>\n                    2025年 – 2026年<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://ieeevr.org/2026/committees/program-committee/\">LINK</a></li><br>",
+        "en": "<li><b>International Program Committee (IPC) Member, IEEE VR 2026</b><br>\n                    2025 – 2026<br>\n                    <a class=\"btn btn-primary btn-sm\" href=\"https://ieeevr.org/2026/committees/program-committee/\">LINK</a></li><br>"
+      },
+      {
         "ja": "<li><b>日本バーチャルリアリティ学会　複合現実感研究委員会　委員</b><br>\n                    2025年4月 – 現在</li><br>",
         "en": "<li><b>Committee Member, Research Committee on Mixed Reality, the Virtual Reality Society of Japan</b><br>\n                    Apr. 2025 – present</li><br>"
       },
@@ -105,8 +117,28 @@
     ],
     "others": [
       {
+        "ja": "<li>研究者と民間企業の共創イベントにゲスト登壇しました <b>面白い研究×民間企業 共創出会いナイト（THE FLYING PENGUINS，日本橋）2026年5月28日</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://theflyingpenguins260528.peatix.com/view\">LINK</a>\n                  <br>",
+        "en": "<li>Invited guest speaker at a researcher–industry co-creation event: <b>\"Interesting Research × Private Companies: Co-Creation Meetup Night\" (THE FLYING PENGUINS, Nihonbashi, Tokyo), May 28, 2026</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://theflyingpenguins260528.peatix.com/view\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>Benesse社のチャレンジ小学五年生の6月号に研究が掲載されました<b>未来発見BOOK6月号 特集「ウソで世界を救う！？」 p.8-9 2026</b></li>\n                  <br>",
+        "en": "<li>Research featured in Benesse's \"Challenge 5th Grader\": <b>Mirai Hakken BOOK, June issue, feature \"Saving the World with Lies!?\", pp.8-9, 2026</b></li>\n                  <br>"
+      },
+      {
         "ja": "<li>研究内容を大阪万博で展示しました <b>見た目で味が変わる!?ARで味わう不思議フード</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://keihannaexpo.org/hp/\">LINK</a>\n                  <br>",
         "en": "<li>Exhibited research at Expo 2025 Osaka, Kansai: <b>\"Mysterious AR Food Whose Taste Changes with Its Appearance\"</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://keihannaexpo.org/hp/\">LINK</a>\n                  <br>"
+      },
+      {
+        "ja": "<li>Benesse社のチャレンジ小学五年生の6月号に研究が掲載されました<b>未来発見BOOK6月号 特集「ウソで世界を救う！？」 p.8-9 2025</b></li>\n                  <br>",
+        "en": "<li>Research featured in Benesse's \"Challenge 5th Grader\": <b>Mirai Hakken BOOK, June issue, feature \"Saving the World with Lies!?\", pp.8-9, 2025</b></li>\n                  <br>"
+      },
+      {
+        "ja": "<li>Benesse社のチャレンジ小学五年生の6月号に研究が掲載されました<b>未来発見BOOK6月号 p.8-9 2024</b></li>\n                  <br>",
+        "en": "<li>Research featured in Benesse's \"Challenge 5th Grader\": <b>Mirai Hakken BOOK, June issue, pp.8-9, 2024</b></li>\n                  <br>"
+      },
+      {
+        "ja": "<li>Benesse社のチャレンジ小学五年生の6月号に研究が掲載されました<b>未来発見BOOK6月号 p.8-9 2023</b></li>\n                  <br>",
+        "en": "<li>Research featured in Benesse's \"Challenge 5th Grader\": <b>Mirai Hakken BOOK, June issue, pp.8-9, 2023</b></li>\n                  <br>"
       },
       {
         "ja": "<li>研究内容が雑誌で紹介されました <b>OplusE 2022年11・12月号（第488号）研究室探訪vol.30 奈良先端科学技術大学院大学 サイバネティクス・リアリティ工学研究室</b></li>\n                  <a class=\"btn btn-primary btn-sm\" href=\"https://www.adcom-media.co.jp/laboratory/2022/11/25/104941/\">LINK</a>\n                  <br>",

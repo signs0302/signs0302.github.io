@@ -611,6 +611,30 @@
       ]
     },
     {
+      "id": "d-vrsj2026-companion",
+      "section": "domestic",
+      "year": 2026,
+      "in_japanese": true,
+      "authors": {
+        "ja": "松本篤弥，畑田裕二，鈴木嵩茂，瑞穂嵩人，<u>中野萌士</u>，鳴海拓志，葛岡英明",
+        "en": "Atsuya Matsumoto, Yuji Hatada, Takashige Suzuki, Takato Mizuho, <u>Kizashi Nakano</u>, Takuji Narumi, and Hideaki Kuzuoka"
+      },
+      "title": {
+        "ja": "ユーザに新たな行動を促すゲームコンパニオンとの相互行為の探索的調査",
+        "en": "An Exploratory Study of Interactions with a Game Companion That Encourages Users to Take New Actions"
+      },
+      "venue": {
+        "ja": "第31回日本VR学会大会論文集，4B1-03，2026",
+        "en": "Proceedings of the 31st Annual Conference of the Virtual Reality Society of Japan, 4B1-03, 2026"
+      },
+      "links": [
+        {
+          "label": "PDF",
+          "href": "https://conference.vrsj.org/ac2026/program/doc/4B1-03.pdf"
+        }
+      ]
+    },
+    {
       "id": "d-miru2026-deeptastedm",
       "section": "domestic",
       "year": 2026,
