@@ -52,7 +52,7 @@
         "en": "Sharp Body, Sour Taste: Changing Taste Experiences through Cross-Modal Correspondence with the Bouba/Kiki Self-Avatar in VR"
       },
       "venue": {
-        "en": "IEEE Transactions on Visualization and Computer Graphics (TVCG), pp.1-16, 2026"
+        "en": "IEEE Transactions on Visualization and Computer Graphics (TVCG) 32 (9), pp.7657-7671, 2026"
       },
       "links": [
         {
@@ -150,6 +150,26 @@
         {
           "label": "10.3390/electronics10101157",
           "href": "https://doi.org/10.3390/electronics10101157"
+        }
+      ]
+    },
+    {
+      "id": "i-ismar2026-stairs",
+      "section": "international",
+      "year": 2026,
+      "authors": {
+        "en": "Yusuke Arikawa, <u>Kizashi Nakano</u>, Keigo Matsumoto, and Takuji Narumi"
+      },
+      "title": {
+        "en": "Look Forward, Walk Naturally: Effects of an Extended Downward Field of View on Posture and Immersion in Virtual Stair Walking"
+      },
+      "venue": {
+        "en": "IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2026)，2026"
+      },
+      "links": [
+        {
+          "label": "LINK",
+          "href": "https://www.ieeeismar.net/2026/papers/"
         }
       ]
     },
