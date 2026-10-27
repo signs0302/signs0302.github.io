@@ -2,6 +2,26 @@
   "_readme": "論文データの一元管理ファイル。cv_JP.html / cv_ENG.html / projects/*.html はこのファイルをJS(js/publications.js)で読み込んで表示する。新しい論文はこのファイルに1エントリ追加するだけでよい。section: journal | international | domestic | patent。表示順はこの配列の順（各セクション内で新しい順に並べる）。日本語論文は in_japanese: true を付けると英語CVで (in Japanese) が付く。",
   "publications": [
     {
+      "id": "j-fqp2026-monaka",
+      "section": "journal",
+      "year": 2026,
+      "authors": {
+        "en": "Masaki Ohno, Yuto Ishizu, <u>Kizashi Nakano</u>, Takayuki Yamamoto, Ryo Tanaka, Hitomi Tsuchiya, and Takuji Narumi"
+      },
+      "title": {
+        "en": "Extrinsic hand-feel textures and oral-somatosensory texture ratings of a composite food: A study with monaka ice cream"
+      },
+      "venue": {
+        "en": "Food Quality and Preference, 106156, 2026"
+      },
+      "links": [
+        {
+          "label": "10.1016/j.foodqual.2026.106156",
+          "href": "https://doi.org/10.1016/j.foodqual.2026.106156"
+        }
+      ]
+    },
+    {
       "id": "j-frontiers2026-lookingdown",
       "section": "journal",
       "year": 2026,
